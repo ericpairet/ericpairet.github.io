@@ -1,0 +1,25 @@
+{%- for pub in include.publications -%}
+  {{ pub.name }}
+  <br/>
+  {%- if pub.pdf == "none" -%}
+  {%- else -%}
+    <a href="{{ site.url }}/xtra/publications/{{ pub.pdf }}">
+      <img border="0" alt="pdf" src="{{ site.url }}/xtra/images/icon_pdf.jpeg" width="40" height="40">
+    </a>
+  {%- endif -%}
+
+  {%- if pub.bibtex == "none" -%}
+  {%- else -%}
+    <a href="{{ site.url }}/xtra/publications/{{ pub.bibtex }}">
+      <img border="0" alt="pdf" src="{{ site.url }}/xtra/images/icon_bibtex.png" width="40" height="40">
+    </a>
+  {%- endif -%}
+
+  {%- if pub.youtube == "none" -%}
+  {%- else -%}
+    <a href="{{ pub.youtube }}">
+      <img border="0" alt="pdf" src="{{ site.url }}/xtra/images/icon_youtube.png" width="40" height="40">
+    </a>
+  {%- endif -%}
+  <br/>
+{%- endfor -%}

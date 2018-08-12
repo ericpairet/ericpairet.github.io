@@ -1,0 +1,10 @@
+@article{hernandez2015line,
+  title={On-line 3D Path Planning for Close-proximity Surveying with AUVs★},
+  author={Hern{\'a}ndez, Juan D and Vallicrosa, Guillem and Vidal, Eduard and Pairet, {\`E}ric and Carreras, Marc and Ridao, Pere},
+  journal={IFAC-PapersOnLine},
+  volume={48},
+  number={2},
+  pages={50--55},
+  year={2015},
+  publisher={Elsevier}
+}

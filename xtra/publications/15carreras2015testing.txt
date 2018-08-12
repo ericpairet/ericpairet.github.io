@@ -1,0 +1,9 @@
+@article{carreras2015testing,
+  title={Testing SPARUS II AUV, an open platform for industrial, scientific and academic applications},
+  author={Carreras, Marc and Candela, Carles and Ribas, David and Palomeras, Narc{\'\i}s and Mag{\'\i}, Llu{\'\i}s and Mallios, Angelos and Vidal, Eduard and Vidal, {\`E}ric and Ridao, Pere},
+  journal={Instrumentation viewpoint},
+  number={18},
+  pages={54--55},
+  year={2015},
+  publisher={SARTI}
+}

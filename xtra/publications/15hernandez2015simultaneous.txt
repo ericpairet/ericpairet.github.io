@@ -1,0 +1,8 @@
+@inproceedings{hernandez2015simultaneous,
+  title={Simultaneous mapping and planning for autonomous underwater vehicles in unknown environments},
+  author={Hern{\'a}ndez, Juan David and Vidal, Eduard and Vallicrosa, Guillem and Pairet, Eric and Carreras, Marc},
+  booktitle={OCEANS 2015-Genova},
+  pages={1--6},
+  year={2015},
+  organization={IEEE}
+}
