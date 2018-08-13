@@ -1,24 +1,43 @@
 {%- for pub in include.publications -%}
   {{ pub.name }}
   <br/>
-  {%- if pub.pdf == "none" -%}
+  {%- if pub.pdf == null -%}
+    <a class="isDisabled" href="javascript:void(0)">
+      <img border="0" alt="pdf" src="{{ site.url }}/xtra/images/icon_pdf_on.png" height="30">
+    </a>
   {%- else -%}
     <a href="{{ site.url }}/xtra/publications/{{ pub.pdf }}">
-      <img border="0" alt="pdf" src="{{ site.url }}/xtra/images/icon_pdf.jpeg" width="40" height="40">
+      <img border="0" alt="pdf" src="{{ site.url }}/xtra/images/icon_pdf_on.png" height="30">
     </a>
   {%- endif -%}
 
-  {%- if pub.bibtex == "none" -%}
+  {%- if pub.bibtex == null -%}
+    <a class="isDisabled" href="javascript:void(0)">
+      <img border="0" alt="pdf" src="{{ site.url }}/xtra/images/icon_bibtex_on.png" height="30">
+    </a>
   {%- else -%}
     <a href="{{ site.url }}/xtra/publications/{{ pub.bibtex }}">
-      <img border="0" alt="pdf" src="{{ site.url }}/xtra/images/icon_bibtex.png" width="40" height="40">
+      <img border="0" alt="pdf" src="{{ site.url }}/xtra/images/icon_bibtex_on.png" height="30">
     </a>
   {%- endif -%}
 
-  {%- if pub.youtube == "none" -%}
+  {%- if pub.abstract == null -%}
+    <a class="isDisabled" href="javascript:void(0)">
+      <img border="0" alt="pdf" src="{{ site.url }}/xtra/images/icon_abstract_on.png" height="30">
+    </a>
+  {%- else -%}
+    <a href="{{ site.url }}/xtra/publications/{{ pub.abstract }}">
+      <img border="0" alt="pdf" src="{{ site.url }}/xtra/images/icon_abstract_on.png" height="30">
+    </a>
+  {%- endif -%}
+
+  {%- if pub.youtube == null -%}
+    <a class="isDisabled" href="javascript:void(0)">
+      <img border="0" alt="pdf" src="{{ site.url }}/xtra/images/icon_video_on.png" height="30">
+    </a>
   {%- else -%}
     <a href="{{ pub.youtube }}">
-      <img border="0" alt="pdf" src="{{ site.url }}/xtra/images/icon_youtube.png" width="40" height="40">
+      <img border="0" alt="pdf" src="{{ site.url }}/xtra/images/icon_video_on.png" height="30">
     </a>
   {%- endif -%}
   <br/>
