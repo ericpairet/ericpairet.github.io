@@ -1,4 +1,4 @@
-@inproceedings{pairet2018uncertainty-based-mapping-planning-auvs,
+@inproceedings{pairet2018uncertainty,
     author = {Pairet, {\`E}. and Hern{\'a}ndez, Juan David and Lahijanian, Morteza and Carreras, Marc},
   booktitle = {{IEEE/RSJ} Intl.\ Conf.\ on Intelligent Robots and Systems},
   title = {Uncertainty-based Online Mapping and Motion Planning for Marine Robotics Guidance},
