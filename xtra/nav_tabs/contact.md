@@ -4,12 +4,10 @@ title: Contact
 permalink: /xtra/nav_tabs/contact/
 ---
 
-Some information about you!
+PhD candidate at RAS CDT
 
-### More Information
+University of Edinburgh
 
-A place to include any other types of information that you'd like to include about yourself.
+Heriot-Watt University
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[eric.pairet@ed.ac.uk](mailto:eric.pairet@ed.ac.uk)
