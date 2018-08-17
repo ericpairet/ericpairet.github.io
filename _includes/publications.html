@@ -3,41 +3,41 @@
   <br/>
   {%- if pub.pdf == null -%}
     <a class="isDisabled" href="javascript:void(0)">
-      <img border="0" alt="pdf" src="{{ site.url }}/xtra/images/icon_pdf_on.png" height="30">
+      <button type="button" class="btn noselect disable">pdf</button>
     </a>
   {%- else -%}
     <a href="{{ site.url }}/xtra/publications/{{ pub.pdf }}">
-      <img border="0" alt="pdf" src="{{ site.url }}/xtra/images/icon_pdf_on.png" height="30">
+      <button type="button" class="btn noselect">pdf</button>
     </a>
   {%- endif -%}
 
   {%- if pub.bibtex == null -%}
     <a class="isDisabled" href="javascript:void(0)">
-      <img border="0" alt="pdf" src="{{ site.url }}/xtra/images/icon_bibtex_on.png" height="30">
+      <button type="button" class="btn noselect disable">bibtex</button>
     </a>
   {%- else -%}
     <a href="{{ site.url }}/xtra/publications/{{ pub.bibtex }}">
-      <img border="0" alt="pdf" src="{{ site.url }}/xtra/images/icon_bibtex_on.png" height="30">
+      <button type="button" class="btn noselect">bibtex</button>
     </a>
   {%- endif -%}
 
   {%- if pub.abstract == null -%}
     <a class="isDisabled" href="javascript:void(0)">
-      <img border="0" alt="pdf" src="{{ site.url }}/xtra/images/icon_abstract_on.png" height="30">
+      <button type="button" class="btn noselect disable">abstract</button>
     </a>
   {%- else -%}
     <a href="{{ site.url }}/xtra/publications/{{ pub.abstract }}">
-      <img border="0" alt="pdf" src="{{ site.url }}/xtra/images/icon_abstract_on.png" height="30">
+      <button type="button" class="btn noselect">abstract</button>
     </a>
   {%- endif -%}
 
   {%- if pub.youtube == null -%}
     <a class="isDisabled" href="javascript:void(0)">
-      <img border="0" alt="pdf" src="{{ site.url }}/xtra/images/icon_video_on.png" height="30">
+      <button type="button" class="btn noselect disable">video</button>
     </a>
   {%- else -%}
     <a href="{{ pub.youtube }}">
-      <img border="0" alt="pdf" src="{{ site.url }}/xtra/images/icon_video_on.png" height="30">
+      <button type="button" class="btn noselect">video</button>
     </a>
   {%- endif -%}
   <br/>

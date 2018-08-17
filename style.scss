@@ -303,6 +303,37 @@ footer {
   text-align: center;
 }
 
+.btn {
+    border: 2px solid $gray;
+    background-color: $lightGray;
+    font-size: 15px;
+    padding: 4px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+    display: inline-block;
+    unselectable: on;
+}
+
+.noselect {
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome and Opera */
+}
+
+.btn:hover {
+    border: 2px solid $darkGray;
+    background-color: $gray;
+    color: white;
+}
+
+.disable {
+    cursor: not-allowed;
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
