@@ -32,13 +32,13 @@ A summary of my C.V is below. For a more complete version, please email me.
 
 
 
-
+<!--ERF?-->
 
 <div class="wrapper-header">
   <font size="4"><b>Honors and Awards</b></font>
 </div>
 <ul>
-  <li> 1st prize in <a href="https://www.eu-robotics.net/robotics_league/" class="body">European Robotics League (ERL)</a> robotic competition celebrated in Piombino (Italy) as member of the team University of Girona. Role: team leader and task planning for multi-robot cooperation. </li>
+  <li> 1st prize in <a href="https://www.eu-robotics.net/robotics_league/" class="body">European Robotics League (ERL)</a> robotic competition celebrated in Piombino (Italy) as member of the team University of Girona. Role: team leader and task planning for multi-robot cooperation, 2017. </li>
   <li> “Manel Xifra i Boada” (MXB) prize from the Engineers College of Girona (Spain) for outstanding BSc thesis, 2017. </li>
   <li> “Premis Patronat Politècnica” prize from the University of Girona (Spain) for outstanding BSc thesis, 2016. </li>
   <li> 1st prize in <a href="https://www.eurathlon.eu/index.php/compete2/eurathlon2015/" class="body">euRathlon 2015</a> robotic competition celebrated in Piombino (Italy) as a member of the team University of Girona. Role: control architecture software developer, 2015. </li>
