@@ -1,11 +1,11 @@
-- name: È. Pairet, P. Ardón, M. Mistry, and F. Broz, “Learning and Generalisation of Primitives Skills Towards Robust Dual-arm Manipulation," AAAI Fall Symposium Series, October 2018.
-  pdf:
-  bibtex: #18pairet2018learningb.txt
+- name: È. Pairet, P. Ardón, F. Broz, M. Mistry, and Y. Petillot “Learning and Generalisation of Primitives Skills Towards Robust Dual-arm Manipulation," in AAAI Fall Symposium, Artificial Intelligence for Human-Robot Interaction, October 2018.
+  pdf: 18pairet2018learningb.pdf
+  bibtex: 18pairet2018learningb.txt
   youtube:
 
-- name: P. Ardón, È. Pairet, S. Ramamoorthy, and K. S. Lohan, “Towards Robust Grasps, Using the Environment Semantics for Robotic Object Affordances," AAAI Fall Symposium Series, October 2018.
-  pdf:
-  bibtex: #18ardon2018towards.txt
+- name: P. Ardón, È. Pairet, S. Ramamoorthy, and K. S. Lohan, “Towards Robust Grasps, Using the Environment Semantics for Robotic Object Affordances," in AAAI Fall Symposium, Artificial Intelligence for Human-Robot Interaction, October 2018.
+  pdf: 18ardon2018towards.pdf
+  bibtex: 18ardon2018towards.txt
   youtube:
 
 - name: È. Pairet, J. D. Hernández, M. Lahijanian, and M. Carreras, “Uncertainty-based Online Mapping and Motion Planning for Marine Robotics Guidance,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems, October 2018.
