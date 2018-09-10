@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Curriculum Vitae
-permalink: /xtra/nav_tabs/cv/
+permalink: /cv/
 ---
 
 

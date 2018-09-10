@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-permalink: /xtra/nav_tabs/contact/
+permalink: /contact/
 ---
 
 PhD candidate at RAS CDT
