@@ -1,7 +1,7 @@
 @inproceedings{ardon2018towards,
   title={Towards Robust Grasps: Using the Environment Semantics for Robotic Object Affordances},
   author={Ard\'on, Paola and Pairet, {\`E}ric and Ramamoorthy, Subramanian and Lohan, Katrin Solveig},
-  booktitle={AAAI Fall Symposium. Artificial Intelligence for Human-Robot Interaction},
+  booktitle={AAAI Fall Symposium. Reasoning and Learning in Real-World Systems for Long-Term Autonomy},
   year={2018},
   organization={AAAI Press}
 }
