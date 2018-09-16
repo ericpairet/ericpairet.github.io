@@ -3,18 +3,36 @@ layout: default
 ---
 
 <div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
+  <!-- THIS IS THE LEFT TAB -->
+  <div class="split left" style="float:left">
+    <img src="{{ site.baseurl }}/images/h_and_s.jpg" class="mainimg" />
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+    <h3>Latest News</h3>
 
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
+    {% for news in site.data.news %}
+      {{  news.date  }}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{  news.content  }}
+      <br/>
+      <br/>
+    {% endfor %}
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
+  </div>
+
+  <!-- THIS IS THE RIGHT TAB -->
+  <div class="split right" style="float:right">
+    <!--div class="centered"-->
+      <h3>Short Biography</h3>
+      Under development...
+      <!--
+      <p style="text-align:justify">I was born in <a href="https://en.wikipedia.org/wiki/Banyoles" class="body">Banyoles (Catalonia - Spain)</a> and got my B.Sc. in Electronic and Automation Engineering from the <a href="https://www.udg.edu/" class="body">University of Girona</a> in Girona (Catalonia - Spain). My interest in robotics and computer visions made me...
+      -->
+
+      <h3>Research Interests</h3>
+      Under development...
+    <!--/div-->
+  </div>
+  <div style="clear:both"></div>
+
+  
 </div>
 
 <!--

@@ -155,6 +155,59 @@ img {
 }
 
 /*********************/
+/* MAIN SPLIT SCREEN */
+/*********************/
+
+/* Split the screen in half */
+.split {
+  height: 20%;
+  //position: relative;
+  //z-index: 1;
+  //top: 0;
+  //overflow-x: hidden;
+  //padding-top: 20px;
+}
+
+/* Control the left side */
+.left {
+  width: 40%;
+  left: 0;
+  //background-color: #111;
+}
+
+/* Control the right side */
+.right {
+  width: 55%;
+  right: 0;
+  //background-color: red;
+}
+
+/* If you want the content centered horizontally and vertically */
+.centered {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+/* Style the image inside the centered container, if needed */
+.centered img {
+  width: 150px;
+  border-radius: 50%;
+}
+
+/*  */
+.mainimg {
+  width: 80%;
+  align: middle;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  //border-radius: 5%;
+}
+
+/*********************/
 /* LAYOUT / SECTIONS */
 /*********************/
 
