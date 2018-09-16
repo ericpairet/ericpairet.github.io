@@ -10,9 +10,18 @@ layout: default
     <h3>Latest News</h3>
 
     {% for news in site.data.news %}
-      {{  news.date  }}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{  news.content  }}
-      <br/>
-      <br/>
+      <font size="2.5">
+        <font color="red"> {{  news.date  }} </font>
+        &nbsp;&nbsp;&nbsp;
+        {{  news.content  }}
+
+        {%- if news.link != null -%}
+          <!--a href="{{ news.link }}"> here.</a-->
+          <br/>
+          {{  news.link  }}
+        {%- endif -%}
+        <br/>
+      </font>
     {% endfor %}
 
   </div>
