@@ -1,5 +1,5 @@
 @mastersthesis{pairet2017uncertainty,
-  author="\`{E}ric Pairet",
+  author="Pairet, {\`E}ric",
   title="Uncertainty-based Online Mapping and Motion Planning for Marine Robotics Guidance",
   school="University of Girona and University of Oxford",
   type="{Master Thesis}",
