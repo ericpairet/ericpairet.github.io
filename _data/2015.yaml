@@ -1,12 +1,13 @@
 - name: J. D. Hernández, E. Vidal, G. Vallicrosa, È. Pairet, and M. Carreras. "Simultaneous Mapping and Planning for Autonomous Underwater Vehicles in Unknown Environments," in MTS/IEEE OCEANS. October 2015.
   pdf: 15hernandez2015simultaneous.pdf
   bibtex: 15hernandez2015simultaneous.txt
+  abstract: 15hernandez2015simultaneous_abstract.txt
   youtube: https://youtu.be/A5-8LTBxbHQ
 
 - name: M. Carreras, C. Candela, D. Ribas, N. Palomeras, Ll. Magí, A. Mallios, E. Vidal, È. Pairet, and P. Ridao. "Testing SPARUS II AUV, an open platform for industrial, scientific and academic applications," in International Workshop in Marine Technology. September 2015.
   pdf: 15carreras2015testing.pdf
   bibtex: 15carreras2015testing.txt
-  youtube:
+  abstract: 15carreras2015testing_abstract.txt
 
 - name: È. Pairet. "Integració de timons en el robot SPARUS II pel control en cinc graus de llibertat," University of Girona, BSc thesis. Written in Catalan. September 2015.
   pdf: 15pairet2015integracio.pdf
@@ -16,4 +17,4 @@
 - name: J. D. Hernández, G. Vallicrosa, E. Vidal, È. Pairet, M. Carreras, and P. Ridao. "On-line 3D Path Planning for Close-proximity Surveying with AUVs," in IFAC Workshop on Navigation, Guidance and Control of Underwater Vehicles. April 2015.
   pdf: 15hernandez2015line.pdf
   bibtex: 15hernandez2015line.txt
-  youtube:
+  abstract: 15hernandez2015line_abstract.txt
