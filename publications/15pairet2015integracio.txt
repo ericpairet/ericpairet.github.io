@@ -1,0 +1,8 @@
+@mastersthesis{pairet2015integracio,
+  author="\`{E}ric Pairet",
+  title="{Integraci\'o de timons en el robot SPARUS II AUV pel control en cinc graus de llibertat}",
+  school="University of Girona",
+  type="{Bachelor Thesis}",
+  year="2015",
+  month="September",
+}

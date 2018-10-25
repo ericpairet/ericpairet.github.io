@@ -10,7 +10,7 @@
 
 - name: È. Pairet. "Integració de timons en el robot SPARUS II pel control en cinc graus de llibertat," University of Girona, BSc thesis. Written in Catalan. September 2015.
   pdf: 15pairet2015integracio.pdf
-  bibtex:
+  bibtex: 15pairet2015integracio.txt
   youtube:
 
 - name: J. D. Hernández, G. Vallicrosa, E. Vidal, È. Pairet, M. Carreras, and P. Ridao. "On-line 3D Path Planning for Close-proximity Surveying with AUVs," in IFAC Workshop on Navigation, Guidance and Control of Underwater Vehicles. April 2015.

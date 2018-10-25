@@ -1,0 +1,8 @@
+@mastersthesis{pairet2018learning,
+  author="\`{E}ric Pairet",
+  title="Learning and Generalisation of Primitive Skills for Robust Dual-arm Manipulation",
+  school="University of Edinburgh and Heriot-Watt University",
+  type="{Master Thesis}",
+  year="2018",
+  month="August",
+}
