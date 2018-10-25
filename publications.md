@@ -19,3 +19,8 @@ permalink: /publications/
   <font size="4"><b>2015</b></font>
 </div>
 {% include publications.html publications=site.data.2015 %}
+
+<div class="wrapper-header">
+  <font size="4"><b>2014</b></font>
+</div>
+{% include publications.html publications=site.data.2014 %}
