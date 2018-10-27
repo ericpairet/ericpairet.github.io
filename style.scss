@@ -356,11 +356,28 @@ footer {
   text-align: center;
 }
 
-.btn {
+.btn-active {
     border: 2px solid $gray;
     background-color: $lightGray;
     font-size: 12px;
-    padding: 4px 12px;
+    padding: 3px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+    display: inline-block;
+    unselectable: on;
+}
+
+.btn-active:hover {
+    border: 2px solid $darkGray;
+    background-color: $gray;
+    color: white;
+}
+
+.btn-unactive {
+    border: 2px solid $gray;
+    background-color: $lightGray;
+    font-size: 12px;
+    padding: 3px 12px;
     border-radius: 4px;
     cursor: pointer;
     display: inline-block;
@@ -375,12 +392,6 @@ footer {
         -ms-user-select: none; /* Internet Explorer/Edge */
             user-select: none; /* Non-prefixed version, currently
                                   supported by Chrome and Opera */
-}
-
-.btn:hover {
-    border: 2px solid $darkGray;
-    background-color: $gray;
-    color: white;
 }
 
 .disable {

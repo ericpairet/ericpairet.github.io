@@ -1,45 +1,47 @@
 {%- for pub in include.publications -%}
-  {{ pub.name }}
-  <br/>
-  {%- if pub.pdf == null -%}
-    <a class="isDisabled" href="javascript:void(0)">
-      <button type="button" class="btn noselect disable">pdf</button>
-    </a>
-  {%- else -%}
-    <a href="{{ site.url }}/publications/{{ pub.pdf }}">
-      <button type="button" class="btn noselect">pdf</button>
-    </a>
-  {%- endif -%}
+  <p style="margin: 5px;"></p>
+  <div>
+    <div align="justify"> {{ pub.name }} </div>
+    <p style="margin: 3px;"></p>
+    {%- if pub.pdf == null -%}
+      <a class="isDisabled" href="javascript:void(0)">
+        <button type="button" class="btn-unactive noselect disable">pdf</button>
+      </a>
+    {%- else -%}
+      <a href="{{ site.url }}/publications/{{ pub.pdf }}">
+        <button type="button" class="btn-active noselect">pdf</button>
+      </a>
+    {%- endif -%}
 
-  {%- if pub.bibtex == null -%}
-    <a class="isDisabled" href="javascript:void(0)">
-      <button type="button" class="btn noselect disable">bibtex</button>
-    </a>
-  {%- else -%}
-    <a href="{{ site.url }}/publications/{{ pub.bibtex }}">
-      <button type="button" class="btn noselect">bibtex</button>
-    </a>
-  {%- endif -%}
+    {%- if pub.bibtex == null -%}
+      <a class="isDisabled" href="javascript:void(0)">
+        <button type="button" class="btn-unactive noselect disable">bibtex</button>
+      </a>
+    {%- else -%}
+      <a href="{{ site.url }}/publications/{{ pub.bibtex }}">
+        <button type="button" class="btn-active noselect">bibtex</button>
+      </a>
+    {%- endif -%}
 
-  {%- if pub.abstract == null -%}
-    <a class="isDisabled" href="javascript:void(0)">
-      <button type="button" class="btn noselect disable">abstract</button>
-    </a>
-  {%- else -%}
-    <a href="{{ site.url }}/publications/{{ pub.abstract }}">
-      <button type="button" class="btn noselect">abstract</button>
-    </a>
-  {%- endif -%}
+    {%- if pub.abstract == null -%}
+      <a class="isDisabled" href="javascript:void(0)">
+        <button type="button" class="btn-unactive noselect disable">abstract</button>
+      </a>
+    {%- else -%}
+      <a href="{{ site.url }}/publications/{{ pub.abstract }}">
+        <button type="button" class="btn-active noselect">abstract</button>
+      </a>
+    {%- endif -%}
 
-  {%- if pub.youtube == null -%}
-    <a class="isDisabled" href="javascript:void(0)">
-      <button type="button" class="btn noselect disable">video</button>
-    </a>
-  {%- else -%}
-    <a href="{{ pub.youtube }}">
-      <button type="button" class="btn noselect">video</button>
-    </a>
-  {%- endif -%}
-  <br/>
-  <br/>
+    {%- if pub.youtube == null -%}
+      <a class="isDisabled" href="javascript:void(0)">
+        <button type="button" class="btn-unactive noselect disable">video</button>
+      </a>
+    {%- else -%}
+      <a href="{{ pub.youtube }}">
+        <button type="button" class="btn-active noselect">video</button>
+      </a>
+    {%- endif -%}
+    <p style="margin: 20px;"></p>
+  </div>
 {%- endfor -%}
