@@ -4,10 +4,9 @@ title: Contact
 permalink: /contact/
 ---
 
-PhD candidate at RAS CDT
+PhD candidate <br>
+Edinburgh Centre for Robotics <br> 
+The University of Edinburgh and Heriot-Watt University <br>
+Edinburgh (UK) 
 
-University of Edinburgh
-
-Heriot-Watt University
-
-[eric.pairet@ed.ac.uk](mailto:eric.pairet@ed.ac.uk)
+email: [eric.pairet@ed.ac.uk](mailto:eric.pairet@ed.ac.uk)
