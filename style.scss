@@ -373,7 +373,7 @@ footer {
 }
 
 .btn-active {
-    border: 2px solid $gray;
+    border: 2px solid $lessLightGgray;
     background-color: $lightGray;
     font-size: 12px;
     padding: 3px 12px;
@@ -384,8 +384,8 @@ footer {
 }
 
 .btn-active:hover {
-    border: 2px solid $darkGray;
-    background-color: $gray;
+    border: 2px solid $gray;
+    background-color: $lessLightGgray;
     color: white;
 }
 

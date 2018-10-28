@@ -4,7 +4,7 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 
-A summary of my C.V is listed below. For a more complete version, please email me.
+A summary of my CV is listed below. For a more complete version, please email me.
 
 <!-- -->
 <!-- EDUCATION -->
