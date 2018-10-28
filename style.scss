@@ -208,11 +208,11 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  margin-bottom: 40px;
 }
 
 .masthead {
-  padding: 20px 0;
+  padding: 15px 0;
   border-bottom: 1px solid $lightGray;
 
   @include mobile {
@@ -249,11 +249,11 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: #666;
   cursor: pointer;
-  font-family: $helveticaNeue;
-  font-weight: 1000;
-  font-size: 28px;
+  font-family: $palatino;
+  font-weight: 3000;
+  font-size: 32px;
   letter-spacing: 2px;
 }
 
