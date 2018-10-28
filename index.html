@@ -4,57 +4,32 @@ layout: default
 
 <div class="posts">
   <!-- THIS IS THE LEFT TAB -->
-  <div class="split left" style="float:left">
+  <div class="left" style="float:left">
     <img src="{{ site.baseurl }}/images/h_and_s.jpg" class="mainimg" />
 
     <h3>Latest News</h3>
-
+    <p style="margin: -15px;"></p>
     {% for news in site.data.news %}
       <font size="2.5">
         <font color="red"> {{  news.date  }} </font>
         &nbsp;&nbsp;&nbsp;
-        {{  news.content  }}
-
-        {%- if news.link != null -%}
-          <!--a href="{{ news.link }}"> here.</a-->
-          <br/>
-          {{  news.link  }}
-        {%- endif -%}
-        <br/>
+        <div class="justify"> {{  news.content  }}</div>
+        <p style="margin: 5px;"></p>
       </font>
     {% endfor %}
 
   </div>
 
   <!-- THIS IS THE RIGHT TAB -->
-  <div class="split right" style="float:right">
-    <!--div class="centered"-->
-      <h3>Short Biography</h3>
-      Under development...
-      <!--
-      <p style="text-align:justify">I was born in <a href="https://en.wikipedia.org/wiki/Banyoles" class="body">Banyoles (Catalonia - Spain)</a> and got my B.Sc. in Electronic and Automation Engineering from the <a href="https://www.udg.edu/" class="body">University of Girona</a> in Girona (Catalonia - Spain). My interest in robotics and computer visions made me...
-      -->
+  <div class="right" style="float:right">
+      <p style="margin: -30px;"></p>
+      <h1>Short Biography</h1>
+      <p style="text-align:justify">I am a PhD student at the <a href="http://www.edinburgh-robotics.org/" class="body">Edinburgh Centre for Robotics (ECR)</a> (<a href="https://www.ed.ac.uk/" class="body">The University of Edinburgh</a> and <a href="https://www.hw.ac.uk/" class="body">Heriot-Watt University</a> consortium) under the supervision of <a href="https://www.hw.ac.uk/staff/uk/eps/y_petillot.htm" class="body">Prof Yvan Petillot</a> and <a href="http://michaelmistry.com" class="body">Dr Michael Mistry</a>.</p>
 
-      <h3>Research Interests</h3>
-      Under development...
-    <!--/div-->
+      <p style="text-align:justify">I was born in <a href="https://en.wikipedia.org/wiki/Banyoles" class="body">Banyoles</a>, a beatiful village located in the northeastern Catalonia (Spain). I got my BSc in Electronic and Automation Engineering from the <a href="https://www.udg.edu/" class="body">University of Girona</a> (Spain). Motivated by the urge of putting my knowledge into practice, I combined my years of bachelors working on industrial automation for private companies, and doing research on underwater robotics in the <a href="http://cirs.udg.edu/"class="body">Underwater Vision and Robotics Research Centre (CIRS)</a>, where I stayed until I got my Erasmus Mundus MSc in <a href="http://www.vibot.org/joint-msc-in-vision--robotics.html" class="body">Computer Vision and Robotics (VIBOT)</a> from the <a href="http://en.u-bourgogne.fr/" class="body">University of Burgundy</a> (France), <a href="https://www.udg.edu/" class="body">University of Girona</a> (Spain) and <a href="https://www.hw.ac.uk/" class="body">Heriot-Watt University</a> (UK). Then, I accepted an offer of a four-year PhD training programme at the <a href="http://www.edinburgh-robotics.org/" class="body">Edinburgh Centre for Robotics (ECR)</a>. I have recently finished my first year of the programme, being awarded a MSc in Robotics and Autonomous Systems from <a href="https://www.ed.ac.uk/" class="body">The University of Edinburgh</a> and <a href="https://www.hw.ac.uk/" class="body">Heriot-Watt University</a>. Currently, I am in my first year PhD, which mainly focuses on endowing robots with the ability to learn dual-arm manipulation skills from human demonstrations.</p>
+
+      <!-- <h3>Research Interests</h3>
+      Under development...-->
   </div>
   <div style="clear:both"></div>
-
-  
 </div>
-
-<!--
-<p>I was born in <a href="https://en.wikipedia.org/wiki/Banyoles" class="body">Banyoles (Catalonia - Spain)</a> and got my B.Sc. in Electronic and Automation Engineering from the <a href="https://www.udg.edu/" class="body">University of Girona</a> in Girona (Catalonia - Spain). My interest in robotics and computer visions made me 
-
-  Then, my understanding of robotics and computer vision were futher refined during my 
-
-
-  interest for robotics pushed me to undertake the 
-
-
-  , after which I went to <a href="http://www.cmu.edu" class="body">Carnegie Mellon</a> for my PhD in Robotics. I recenty started as an Assistant Professor at <a href="http://www.eecs.berkeley.edu/" class="body">UC Berkeley</a>. Highlights of my activities and awards are below.
---> 
-
-<!--I have done summer research internships at <a href="http://www.itwm.fraunhofer.de/en/fraunhofer-itwm.html" class="body">Fraunhofer</a> (timetable scheduling optimization), the <a href="http://www.ipam.ucla.edu/" class="body">UCLA Institute for Pure and Applied Mathematics</a> (machine learning for <a href="http://en.wikipedia.org/wiki/Geographic_profiling" class="body">geoprofiling</a>), as well as at <a href="http://www.pittsburgh.intel-research.net/" class="body">Intel Labs Pittsburgh</a>.--> 
-
