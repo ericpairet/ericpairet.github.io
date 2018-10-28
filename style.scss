@@ -160,6 +160,30 @@ img {
 }
 
 /*********************/
+/*  CV COLUMN STYLE  */
+/*********************/
+
+.column {
+    float: left;
+    margin-bottom: -10px;
+}
+
+.column-left {
+  width: 14%;
+}
+
+.column-right {
+  width: 86%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/*********************/
 /* MAIN SPLIT SCREEN */
 /*********************/
 
