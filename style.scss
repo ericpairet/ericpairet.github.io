@@ -19,7 +19,7 @@ html {
 
 body {
   background: $white;
-  font: 16px/1.4 $helvetica;
+  font: 16px/1.4 $palatino;
   color: $darkGray;
 }
 
@@ -252,9 +252,9 @@ img {
   color: $darkGray;
   cursor: pointer;
   font-family: $helveticaNeue;
-  font-weight: 300;
+  font-weight: 1000;
   font-size: 28px;
-  letter-spacing: 1px;
+  letter-spacing: 2px;
 }
 
 .site-description {
