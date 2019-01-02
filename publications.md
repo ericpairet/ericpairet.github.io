@@ -6,6 +6,11 @@ permalink: /publications/
 <h1>Publications</h1>
 
 <div class="wrapper-header">
+  <font size="4"><b>2019</b></font>
+</div>
+{% include publications.html publications=site.data.2019 %}
+
+<div class="wrapper-header">
   <font size="4"><b>2018</b></font>
 </div>
 {% include publications.html publications=site.data.2018 %}
