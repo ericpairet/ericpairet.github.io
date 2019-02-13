@@ -1,7 +1,8 @@
 @inproceedings{pairet2018learning,
-  title={Learning and Generalisation of Primitives Skills Towards Robust Dual-arm Manipulation},
-  author={Pairet, {\`E}ric and Ard\'on, Paola and Broz, Frank and Mistry, Michael and Petillot, Yvan},
-  booktitle={AAAI Fall Symposium. Reasoning and Learning in Real-World Systems for Long-Term Autonomy},
-  year={2018},
-  organization={AAAI Press}
+  author = {Pairet, {\`E}ric and Ard{\'o}n, Paola and Broz, Frank and Mistry, Michael and Petillot, Yvan},
+  title = {Learning and Generalisation of Primitives Skills Towards Robust Dual-arm Manipulation},
+  booktitle = {Proceedings of the AAAI Fall Symposium on Reasoning and Learning in Real-World Systems for Long-Term Autonomy},
+  pages = {62--69},
+  year = {2018},
+  organization = {AAAI Press}
 }

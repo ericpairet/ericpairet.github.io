@@ -1,6 +1,8 @@
 @inproceedings{pairet2018uncertainty,
-  author = {Pairet, {\`Eric}, and Hern{\'a}ndez, Juan David and Lahijanian, Morteza and Carreras, Marc},
-  booktitle = {{IEEE/RSJ} Intl.\ Conf.\ on Intelligent Robots and Systems},
-  title = {Uncertainty-based Online Mapping and Motion Planning for Marine Robotics Guidance},
-  year = {2018}
+  title={Uncertainty-based Online Mapping and Motion Planning for Marine Robotics Guidance},
+  author={Pairet, {\`E}ric and Hern{\'a}ndez, Juan David and Lahijanian, Morteza and Carreras, Marc},
+  booktitle={2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={2367--2374},
+  year={2018},
+  organization={IEEE}
 }
