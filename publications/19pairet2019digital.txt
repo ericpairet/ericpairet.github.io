@@ -1,6 +1,8 @@
 @inproceedings{pairet2019digital,
-  author = {Pairet, {\`E}ric and Ard{\'o}n, Paola and Liu, Xingkun and Lopes, Jos{\'e} and Hastie, Helen and Lohan, Katrin Solveig},
-  booktitle = {{ACM/IEEE} Intl.\ Conf.\ on Human-Robot Interaction},
-  title = {A Digital Twin for Human-Robot Interaction},
-  year = {2019}
+  title={A Digital Twin for Human-Robot Interaction},
+  author={Pairet, {\`E}ric and Ard{\'o}n, Paola and Liu, Xingkun and Lopes, Jos{\'e} and Hastie, Helen and Lohan, Katrin S},
+  booktitle={2019 14th ACM/IEEE International Conference on Human-Robot Interaction (HRI)},
+  pages={372--372},
+  year={2019},
+  organization={IEEE}
 }
