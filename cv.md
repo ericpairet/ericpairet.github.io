@@ -103,7 +103,7 @@ A summary of my CV is listed below. For a more complete version, please email me
 
 <div class="row">
   <div class="column column-left">
-    <p>2007 / 208</p>
+    <p>2007 / 2008</p>
   </div>
   <div class="column column-right justify">
     <p><b>CLIFEL S.A. </b> (Spain). <br><i> Description:  Install, repair and maintain installations of electricity, domestic water and gas in housing, offices, shops and small industry.</i></p>
