@@ -1,0 +1,11 @@
+@article{ardon2019learningb,
+  author = {Ard{\'o}n, Paola and Pairet, {\`E}ric and Ramamoorthy, Subramanian and Lohan, Katrin Solveig},
+  title = {Learning Grasp Affordance Reasoning through Semantic Relations},
+  journal = {IEEE Robotics and Automation Letters},
+  year = {2019},
+  month = ,
+  volume = {},
+  issue = {},
+  pages = {},
+  doi = {}
+}

@@ -1,0 +1,11 @@
+@article{pairet2019learningb,
+  author = {Pairet, {\`E}ric and Ard{\'o}n, Paola and Mistry, Michael and Petillot, Yvan},
+  title = {Learning Generalisable Coupling Terms for Obstacle Avoidance via Low-dimensional Geometric Descriptors},
+  journal = {IEEE Robotics and Automation Letters},
+  year = {2019},
+  month = ,
+  volume = {},
+  issue = {},
+  pages = {},
+  doi = {}
+}

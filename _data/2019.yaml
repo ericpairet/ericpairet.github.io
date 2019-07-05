@@ -1,3 +1,15 @@
+- name: È. Pairet, P. Ardón, M. Mistry, and Y. Petillot. "Learning Generalisable Coupling Terms for Obstacle Avoidance via Low-dimensional Geometric Descriptors," in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems and IEEE Robotics and Automation Letters. November 2019.
+  pdf: 19pairet2019learningb.pdf
+  bibtex: 19pairet2019learningb.txt
+  abstract: 19pairet2019learningb_abstract.txt
+  youtube: https://youtu.be/lym5cCbjI3k
+
+- name: P. Ardón, È. Pairet, R. Petrick, S. Ramamoorthy, and K. S. Lohan. "Learning Grasp Affordance Reasoning through Semantic Relations," in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems and IEEE Robotics and Automation Letters. November 2019.
+  pdf: 19ardon2019learning.pdf
+  bibtex: 19ardon2019learning.txt
+  abstract: 19ardon2019learning_abstract.txt
+  youtube: https://youtu.be/aaA3NA-S5KY
+
 - name: È. Pairet, P. Ardón, M. Mistry, and Y. Petillot. "Learning and Composing Primitive Skills for Dual-arm Manipulation", in Conf. Towards Autonomous Robotic Systems. July 2019.
   pdf: 19pairet2019learning.pdf
   bibtex: 19pairet2019learning.txt
