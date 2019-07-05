@@ -10,13 +10,13 @@
   abstract: 19ardon2019learning_abstract.txt
   youtube: https://youtu.be/aaA3NA-S5KY
 
-- name: È. Pairet, P. Ardón, M. Mistry, and Y. Petillot. "Learning and Composing Primitive Skills for Dual-arm Manipulation", in Conf. Towards Autonomous Robotic Systems. July 2019.
+- name: È. Pairet, P. Ardón, M. Mistry, and Y. Petillot. "Learning and Composing Primitive Skills for Dual-arm Manipulation", in Conf. Towards Autonomous Robotic Systems. July 2019. <font color="orange">Advanced Robotics at Queen Mary (ARQ) best paper award.</font>
   pdf: 19pairet2019learning.pdf
   bibtex: 19pairet2019learning.txt
   abstract: 19pairet2019learning_abstract.txt
   youtube:
 
-- name: P. Ardón, È. Pairet, R. Petrick, S. Ramamoorthy, and K. S. Lohan. "Reasoning on Grasp-Action Affordances", in Conf. Towards Autonomous Robotic Systems. July 2019.
+- name: P. Ardón, È. Pairet, R. Petrick, S. Ramamoorthy, and K. S. Lohan. "Reasoning on Grasp-Action Affordances", in Conf. Towards Autonomous Robotic Systems. July 2019. <font color="orange">Best paper award finalist.</font>
   pdf: 19ardon2019reasoning.pdf
   bibtex: 19ardon2019reasoning.txt
   abstract: 19ardon2019reasoning_abstract.txt
