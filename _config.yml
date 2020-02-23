@@ -5,8 +5,10 @@
 # Name of your site (displayed in the header)
 name: Èric Pairet
 
-# Short bio or description (displayed in the header)
-description: #Web Developer from Somewhere
+# This is supposed to appear in Google search engine
+author: Èric Pairet
+description: Èric Pairet is a PhD candidate at The University of Edinburgh and Heriot-Watt University (Edinburgh Centre for Robotics)
+keywords: robot, robotics, science, Girona, Edinburgh, Houston, SPARUS, learning, control, commencement speech, Banyoles, University of Girona, University of Edinburgh, Heriot-Watt University
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 #avatar: xtra/images/404.jpg
