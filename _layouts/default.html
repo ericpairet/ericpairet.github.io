@@ -1,6 +1,17 @@
 <!DOCTYPE html>
 <html>
   <head>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<!-- INSTRUCTIONS ARE TO KEEP IT AS FIRST ITEM INTO THE HEAD -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-16344709-2"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'UA-16344709-2');
+		</script>
+
 		<!-- this is the website's name supposed to appear at the explorer's tab and in Google search -->
 		<title>{{ site.name }}{% if page.title %} | {{ page.title }}{% endif %}</title>
 
@@ -14,7 +25,9 @@
 		<meta name="author" content="{{ site.author }}">
 		<meta name="keywords" content="{{ site.keywords }}">
 		<meta name="description" content="{{ site.description }}">
-    <!-- <meta property="og:description" content="{{ site.description }}" /> -->
+
+		<!-- there's something called open graph (og) that is used for attachments -->
+		<!-- <meta property="og:description" content="{{ site.description }}" /> -->
 
     <!--[if lt IE 9]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -23,8 +36,6 @@
 		<!-- include css style sheets -->
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
 
   <body>
@@ -41,7 +52,7 @@
 
           <nav>
             <a href="{{ site.baseurl }}/">Home</a>
-            <!-- <a href="{{ site.baseurl }}/projects">Projects</a> -->
+            <a href="{{ site.baseurl }}/projects">Projects</a>
 						<a href="{{ site.baseurl }}/publications">Publications</a>
             <a href="{{ site.baseurl }}/cv">CV</a>
             <a href="{{ site.baseurl }}/contact">Contact</a>
