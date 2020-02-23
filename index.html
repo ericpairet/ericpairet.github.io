@@ -16,15 +16,16 @@ layout: default
     <!-- news list -->
     <h3>Latest News</h3>
     <p style="margin: -15px;"></p>
-    {% for news in site.data.news %}
-      <font size="2.5">
-        <font color="red"> {{  news.date  }} </font>
-        &nbsp;&nbsp;&nbsp;
-        <div class="justify"> {{  news.content  }}</div>
-        <p style="margin: 5px;"></p>
-      </font>
-    {% endfor %}
-
+		<div class="ex3">
+	    {% for news in site.data.news %}
+	      <font size="2.5">
+	        <font color="red"> {{  news.date  }} </font>
+	        &nbsp;&nbsp;&nbsp;
+	        <div class="justify"> {{  news.content  }}</div>
+	        <p style="margin: 5px;"></p>
+	      </font>
+	    {% endfor %}
+		</div>
   </div>
 
   <!-- THIS IS THE RIGHT TAB -->
