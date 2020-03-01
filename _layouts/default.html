@@ -3,14 +3,14 @@
   <head>
 		<!-- Global site tag (gtag.js) - Google Analytics -->
 		<!-- INSTRUCTIONS ARE TO KEEP IT AS FIRST ITEM INTO THE HEAD -->
-		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-16344709-2"></script>
+		<!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-16344709-2"></script>
 		<script>
 		  window.dataLayer = window.dataLayer || [];
 		  function gtag(){dataLayer.push(arguments);}
 		  gtag('js', new Date());
 
 		  gtag('config', 'UA-16344709-2');
-		</script>
+		</script> -->
 
 		<!-- this is the website's name supposed to appear at the explorer's tab and in Google search -->
 		<title>{{ site.name }}{% if page.title %} | {{ page.title }}{% endif %}</title>
@@ -52,7 +52,7 @@
 
           <nav>
             <a href="{{ site.baseurl }}/">Home</a>
-            <!-- <a href="{{ site.baseurl }}/projects">Projects</a> -->
+            <a href="{{ site.baseurl }}/projects">Projects</a>
 						<a href="{{ site.baseurl }}/publications">Publications</a>
             <a href="{{ site.baseurl }}/cv">CV</a>
             <a href="{{ site.baseurl }}/contact">Contact</a>
