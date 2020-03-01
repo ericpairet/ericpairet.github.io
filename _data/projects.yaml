@@ -1,0 +1,67 @@
+# NOTE:
+#  - the image format depends on the aspect ratio of the original image
+#  - the size corresponds to a style defined in main.css
+#  - projects are introduces in order
+
+- id: project_x1
+  size: col-sm-3
+  image: tree_expansion.jpg
+  content: project_x1.html
+  footnote: footnote_x1
+  hovernote: hovernote_x1
+
+- id: project_x2
+  size: col-sm-3
+  image: tree_expansion.jpg
+  content:
+  footnote: footnote_x2
+  hovernote: hovernote_x2
+
+- id: project_x3
+  size: col-sm-3
+  image: tree_expansion.jpg
+  content:
+  footnote: footnote_x3
+  hovernote: even longer longer longer Hover a very long text for this cell Blur
+
+- id: project_x4
+  size: col-sm-6
+  image: tree_expansion.jpg
+  content:
+  footnote: footnote_x4
+  hovernote: a new hovernote
+
+- id: project_x5
+  size: col-sm-3
+  image: 20150730_181359.jpg
+  content:
+  footnote: yet another one
+  hovernote: yeat a new hovernote
+
+- id: project_x6
+  size: col-sm-3
+  image: 20150730_181359.jpg
+  content:
+  footnote: yet another one
+  hovernote: yeat a new hovernote
+
+- id: project_x7
+  size: col-sm-3
+  image: 20150730_181359.jpg
+  content:
+  footnote: yet another one
+  hovernote: yeat a new hovernote
+
+- id: project_x8
+  size: col-sm-3
+  image: 20150730_181359.jpg
+  content:
+  footnote: yet another one
+  hovernote: yeat a new hovernote
+
+- id: project_x9
+  size: col-sm-3
+  image: 20150730_181359.jpg
+  content:
+  footnote: yet another one
+  hovernote: yeat a new hovernote

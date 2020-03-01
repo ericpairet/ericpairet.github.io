@@ -1,0 +1,59 @@
+<!-- https://codepen.io/alicevega/pen/vEWXGL -->
+
+<link href="/grid_stuff/main.css" rel="stylesheet">
+<link href="/grid_stuff/modal.css" rel="stylesheet">
+<script src="/grid_stuff/modal.js"></script>
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+<!-- TODO: create conditionals to enhance security and allow disabling a feature -->
+<!-- TODO: look for a strategy to disable the javascript pop-up link while preserving the format -->
+
+<!-- TODO: instead of poping up a text screen, it could be a gallery of the project itself (title always on top, some optional text below) -->
+<body>
+	<div class="container">
+		<div class="row">
+
+			<!-- iterate over all entries in the projects.yaml file -->
+			{%- for project in site.data.projects -%}
+
+				<!-- pop-up window, only if there's content to show -->
+				{%- if project.content -%}
+					<div id="{{ project.id }}" class="modal">
+						<div class="modal-content">
+							<span id="{{ project.id }}_close" class="close">&times;</span>
+							<h1>{{ project.hovernote }}</h1>
+							<!-- it can pass arguments! -->
+							{% include_relative {{ site.baseurl }}/projects/{{ project.content }} %}
+						</div>
+					</div>
+				{%- endif -%}
+
+				<!-- image in the grid, with conditional enabling of the pop-up window -->
+				{%- if project.content == null -%}
+					<div class="{{ project.size }} hover-mask">
+						<a style="cursor: auto;">
+							<img src="{{ site.baseurl }}/projects/{{ project.image }}" alt=""/>
+							<h2><span class="text-white">{{ project.hovernote }}</span></h2>
+						</a>
+						<h4 class="text-center">{{ project.footnote }}</h4>
+					</div>
+		    {%- else -%}
+					<div class="{{ project.size }} hover-mask">
+						<a href="javascript:;" onclick="openModal('{{ project.id }}', '{{ project.id }}_close')" title="">
+							<img src="{{ site.baseurl }}/projects/{{ project.image }}" alt=""/>
+							<h2><span class="text-white">{{ project.hovernote }}</span></h2>
+						</a>
+						<h4 class="text-center">{{ project.footnote }}</h4>
+					</div>
+		    {%- endif -%}
+
+			{%- endfor -%}
+
+		</div>
+	</div>
+</body>
