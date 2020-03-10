@@ -1,0 +1,6 @@
+@inproceedings{carreno2020a,
+  title={A Decentralised Strategy for Heterogeneous AUV Missions via Goal Distribution and Temporal Planning},
+  author={Carreno, Yaniel and Pairet, {\`E}ric and Petillot, Yvan and Petrick, Ronald P A},
+  booktitle={Proceedings of ICAPS},
+  year={2020}
+}

@@ -1,17 +1,23 @@
-- name: Y. Carreno, È. Pairet, Y. Petillot, and R. Petrick. "A Decentralised Strategy for Heterogeneous AUV Missions via Goal Distribution and Temporal Planning", in Intl. Conf. on Automated Planning and Scheduling. To be presented.
+- name: K. Lohan, M. Ahmad, C. Dondrup, P. Ardón, È. Pairet, and A. Vinciarelli. "Adapting Movements and Behaviour to Favour Communication in Human-Robot Interaction", in Modelling Human Motion&#58; from Human Perception to Robot Design. Springer. To be published.
   pdf:
   bibtex:
   abstract:
+  youtube:
+
+- name: Y. Carreno, È. Pairet, Y. Petillot, and R. Petrick. "A Decentralised Strategy for Heterogeneous AUV Missions via Goal Distribution and Temporal Planning", in Intl. Conf. on Automated Planning and Scheduling. To be presented.
+  pdf: 20carreno2020a.pdf
+  bibtex: 20carreno2020a.txt
+  abstract: 20carreno2020a_abstract.pdf
   youtube:
 
 - name: Y. Carreno, È. Pairet, Y. Petillot, and R. Petrick. "Task Allocation Strategy for Heterogeneous Robot Teams in Offshore Missions", in Intl. Conf. on Autonomous Agents and Multiagent Systems. To be presented.
-  pdf:
-  bibtex:
-  abstract:
+  pdf: 20carreno2020task.pdf
+  bibtex: 20carreno2020task.txt
+  abstract: 20carreno2020task_abstract.pdf
   youtube:
 
 - name: D. Robb, M. Ahmad, C. Tiseo, S. Aracri, A. C. McConnell, V. Page, C. Dondrup, F. Garcia, H. Nguyen, È. Pairet, P. Ardón, T. Semwal, H. Taylor, L. Wilson, D. Lane, H. Hastie, and K. Lohan. “Robots in the Danger Zone&#58; Exploring Public Perception through Engagement”, in ACM/IEEE Intl. Conf. on Human-Robot Interaction. To be presented.
-  pdf:
-  bibtex:
-  abstract:
+  pdf: 20david2020robots.pdf
+  bibtex: 20david2020robots.txt
+  abstract: 20david2020robots_abstract.txt
   youtube:
