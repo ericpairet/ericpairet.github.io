@@ -1,67 +1,344 @@
-# NOTE:
-#  - the image format depends on the aspect ratio of the original image
-#  - the size corresponds to a style defined in main.css
-#  - projects are introduces in order
+##############################
+##############################
+##############################
+- name: Research Projects
+  projects:
 
-- id: project_x1
-  size: col-sm-3
-  image: tree_expansion.jpg
-  content: project_x1.html
-  footnote: footnote_x1
-  hovernote: hovernote_x1
+    - id: project_r4
+      size: col-sm-12
+      column: left
 
-- id: project_x2
-  size: col-sm-3
-  image: tree_expansion.jpg
-  content:
-  footnote: footnote_x2
-  hovernote: hovernote_x2
+      image: 2017_uncertainty.jpg
+      footnote: Planning under uncertainty
+      hovernote: Uncertainty-based Online Mapping and Motion Planning for Marine Robotics Guidance
+      hovernote_more: "[Read more...]"
 
-- id: project_x3
-  size: col-sm-3
-  image: tree_expansion.jpg
-  content:
-  footnote: footnote_x3
-  hovernote: even longer longer longer Hover a very long text for this cell Blur
+      enable_popup: True
+      abstract: 18pairet2018uncertainty_abstract.txt
+      youtube: https://www.youtube.com/embed/dTejsNqNC00
+      publications:
+        - name: È. Pairet, J. D. Hernández, M. Lahijanian, and M. Carreras. "Uncertainty-based Online Mapping and Motion Planning for Marine Robotics Guidance," in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems. October 2018.
+          pdf: 18pairet2018uncertainty.pdf
+          bibtex: 18pairet2018uncertainty.txt
+          abstract: 18pairet2018uncertainty_abstract.txt
+          youtube: https://youtu.be/dTejsNqNC00
+        - name: È. Pairet. "Uncertainty-based Online Mapping and Motion Planning for Marine Robotics Guidance," University of Girona and University of Oxford, MSc thesis. June 2017.
+          pdf: 17pairet2017uncertainty.pdf
+          bibtex: 17pairet2017uncertainty.txt
+          abstract: 17pairet2017uncertainty_abstract.txt
+          youtube: https://youtu.be/dTejsNqNC00
 
-- id: project_x4
-  size: col-sm-6
-  image: tree_expansion.jpg
-  content:
-  footnote: footnote_x4
-  hovernote: a new hovernote
+    - id: 2018_orca
+      size: col-sm-6
+      column: right
 
-- id: project_x5
-  size: col-sm-3
-  image: 20150730_181359.jpg
-  content:
-  footnote: yet another one
-  hovernote: yeat a new hovernote
+      image: 2018_orca.jpg
+      footnote: Offshore plans automation
+      hovernote: A Digital Twin for Human-Robot Interaction
+      hovernote_more: "[Read more...]"
 
-- id: project_x6
-  size: col-sm-3
-  image: 20150730_181359.jpg
-  content:
-  footnote: yet another one
-  hovernote: yeat a new hovernote
+      enable_popup: True
+      abstract: 20carreno2020a_abstract.txt
+      youtube: https://www.youtube.com/embed/ev1I1n3hZdg
+      publications:
+        - name: Y. Carreno, È. Pairet, Y. Petillot, and R. Petrick. "A Decentralised Strategy for Heterogeneous AUV Missions via Goal Distribution and Temporal Planning", in Intl. Conf. on Automated Planning and Scheduling. To be presented.
+          pdf: 20carreno2020a.pdf
+          bibtex: 20carreno2020a.txt
+          abstract: 20carreno2020a_abstract.pdf
+          youtube:
+        - name: Y. Carreno, È. Pairet, Y. Petillot, and R. Petrick. "Task Allocation Strategy for Heterogeneous Robot Teams in Offshore Missions", in Intl. Conf. on Autonomous Agents and Multiagent Systems. To be presented.
+          pdf: 20carreno2020task.pdf
+          bibtex: 20carreno2020task.txt
+          abstract: 20carreno2020task_abstract.pdf
+          youtube:
+        - name: È. Pairet, P. Ardón, X. Liu, J. Lopes, H. Hastie, and K. S. Lohan. "A Digital Twin for Human-Robot Interaction", in ACM/IEEE Intl. Conf. on Human-Robot Interaction. March 2019.
+          pdf: 19pairet2019digital.pdf
+          bibtex: 19pairet2019digital.txt
+          abstract: 19pairet2019digital_abstract.txt
+          youtube: https://youtu.be/ev1I1n3hZdg
 
-- id: project_x7
-  size: col-sm-3
-  image: 20150730_181359.jpg
-  content:
-  footnote: yet another one
-  hovernote: yeat a new hovernote
+    - id: 2019_oa
+      size: col-sm-6
+      column: right
 
-- id: project_x8
-  size: col-sm-3
-  image: 20150730_181359.jpg
-  content:
-  footnote: yet another one
-  hovernote: yeat a new hovernote
+      image: 2019_oa.jpg
+      footnote: Learning manipulation skills
+      hovernote: Learning Generalisable Manipulation Planning and Obstacle Avoidance Skills #Coupling Terms for Obstacle Avoidance via Low-dimensional Geometric Descriptors
+      hovernote_more: "[Read more...]"
 
-- id: project_x9
-  size: col-sm-3
-  image: 20150730_181359.jpg
-  content:
-  footnote: yet another one
-  hovernote: yeat a new hovernote
+      enable_popup: True
+      abstract: 19pairet2019learningb_abstract.txt
+      youtube: https://www.youtube.com/embed/lym5cCbjI3k
+      publications:
+        - name: È. Pairet, P. Ardón, M. Mistry, and Y. Petillot. "Learning Generalisable Coupling Terms for Obstacle Avoidance via Low-dimensional Geometric Descriptors," in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems and IEEE Robotics and Automation Letters. November 2019.
+          pdf: 19pairet2019learningb.pdf
+          bibtex: 19pairet2019learningb.txt
+          abstract: 19pairet2019learningb_abstract.txt
+          youtube: https://youtu.be/lym5cCbjI3k
+        - name: È. Pairet, P. Ardón, M. Mistry, and Y. Petillot. "Learning and Composing Primitive Skills for Dual-arm Manipulation", in Conf. Towards Autonomous Robotic Systems. July 2019. <font color="orange">Advanced Robotics at Queen Mary (ARQ) best paper award.</font>
+          pdf: 19pairet2019learning.pdf
+          bibtex: 19pairet2019learning.txt
+          abstract: 19pairet2019learning_abstract.txt
+          youtube:
+        - name: È. Pairet, P. Ardón, F. Broz, M. Mistry, and Y. Petillot. "Learning and Generalisation of Primitives Skills Towards Robust Dual-arm Manipulation," in AAAI Fall Symposium Series, Reasoning and Learning in Real-World Systems for Long-Term Autonomy. October 2018.
+          pdf: 18pairet2018learningb.pdf
+          bibtex: 18pairet2018learningb.txt
+          abstract: 18pairet2018learningb_abstract.txt
+        - name: È. Pairet. "Learning and Generalisation of Primitive Skills for Robust Dual-arm Manipulation," University of Ediburgh and Heriot-Watt University, MSc thesis. August 2018.
+          pdf: 18pairet2018learning.pdf
+          bibtex: 18pairet2018learning.txt
+          abstract: 18pairet2018learning_abstract.txt
+
+    - id: 2019_affordances
+      size: col-sm-6
+      column: left
+
+      image: 2019_affordances.jpg
+      footnote: Grasp affordance reasoning
+      hovernote: Learning Grasp Affordance Reasoning through Semantic Relations
+      hovernote_more: "[Read more...]"
+
+      enable_popup: True
+      abstract: 19ardon2019learning_abstract.txt
+      youtube: https://www.youtube.com/embed/aaA3NA-S5KY
+      publications:
+        - name: P. Ardón, È. Pairet, R. Petrick, S. Ramamoorthy, and K. S. Lohan. "Learning Grasp Affordance Reasoning through Semantic Relations," in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems and IEEE Robotics and Automation Letters. November 2019.
+          pdf: 19ardon2019learning.pdf
+          bibtex: 19ardon2019learning.txt
+          abstract: 19ardon2019learning_abstract.txt
+          youtube: https://youtu.be/aaA3NA-S5KY
+        - name: P. Ardón, È. Pairet, R. Petrick, S. Ramamoorthy, and K. S. Lohan. "Reasoning on Grasp-Action Affordances", in Conf. Towards Autonomous Robotic Systems. July 2019. <font color="orange">Best paper award finalist.</font>
+          pdf: 19ardon2019reasoning.pdf
+          bibtex: 19ardon2019reasoning.txt
+          abstract: 19ardon2019reasoning_abstract.txt
+          youtube:
+        - name: P. Ardón, È. Pairet, S. Ramamoorthy, and K. S. Lohan. "Towards Robust Grasps, Using the Environment Semantics for Robotic Object Affordances," in AAAI Fall Symposium Series, Reasoning and Learning in Real-World Systems for Long-Term Autonomy. October 2018.
+          pdf: 18ardon2018towards.pdf
+          bibtex: 18ardon2018towards.txt
+          abstract: 18ardon2018towards_abstract.txt
+
+    - id: 2015_fins
+      size: col-sm-6
+      column: left
+
+      image: 2015_fins.jpg
+      footnote: Fins electronics and control
+      hovernote: Integration of Fins on the SPARUS II AUV for its Control in Five Degrees of 
+      hovernote_more: "[Read more...]"
+
+      enable_popup: True
+      abstract: 15carreras2015testing_abstract.txt
+      youtube: https://www.youtube.com/embed/tXjAhasd4cA
+      publications:
+        - name: M. Carreras, C. Candela, D. Ribas, N. Palomeras, Ll. Magí, A. Mallios, E. Vidal, È. Pairet, and P. Ridao. "Testing SPARUS II AUV, an open platform for industrial, scientific and academic applications," in International Workshop in Marine Technology. September 2015.
+          pdf: 15carreras2015testing.pdf
+          bibtex: 15carreras2015testing.txt
+          abstract: 15carreras2015testing_abstract.txt
+        - name: È. Pairet. "Integració de timons en el robot SPARUS II pel control en cinc graus de llibertat," University of Girona, BSc thesis. Written in Catalan. September 2015.
+          pdf: 15pairet2015integracio.pdf
+          bibtex: 15pairet2015integracio.txt
+          youtube: https://youtu.be/tXjAhasd4cA
+
+    - id: 2017_eurathlon
+      size: col-sm-12
+      column: right
+
+      image: 2017_eurathlon.jpg
+      footnote: Eurathlon 2014, 2015, 2017
+      hovernote: Eurathlon 2014, 2015, 2017
+      hovernote_more: "[Read more...]"
+
+      enable_popup: True
+      abstract:
+      youtube: https://www.youtube.com/embed/nki7f4_fC6o
+
+
+
+
+
+##############################
+##############################
+##############################
+- name: Training Projects
+  projects:
+    - id: 2017_laparascopy
+      size: col-sm-12
+      column: left
+
+      image: 2017_laparoscopy.jpg
+      footnote: Tracking of Laparoscopy Tools
+      hovernote: Tracking of Minimally Invasive Surgery Tools for Skill Assessment
+      hovernote_more: "[See report]"
+
+      enable_popup: False
+      report: 2017_laparascopy.pdf
+
+    - id: project_cv2
+      size: col-sm-6
+      column: right
+
+      image: 2016_tracking.jpg
+      footnote: Multi-object tracking
+      hovernote: Simultaneous Camera Calibration and Multi-Object Tracking using Second-Order Statistics
+      hovernote_more: "[See report]"
+
+      enable_popup: False
+      report: 2016_tracking.pdf
+
+    - id: 2017_segmentation
+      size: col-sm-6
+      column: right
+
+      image: 2017_segmentation.jpg
+      footnote: Cartilage segmentation
+      hovernote: Multiresolution Atlas-based Segmentation of Tibia, Femur and Knee Cartilage on MRI Vol.
+      hovernote_more: "[See report]"
+      
+      enable_popup: False
+      report: 2017_segmentation.pdf
+
+    - id: project_ia3
+      size: col-sm-12
+      column: right
+
+      image: 2013_kuka.jpg
+      footnote: Industrial manipulator
+      hovernote: Industrial manipulator
+      hovernote_more:
+      
+      enable_popup: False
+      report:
+
+    - id: project_cv3
+      size: col-sm-6
+      column: right
+      
+      image: 2017_iris.jpg
+      footnote: Iris biometric identification
+      hovernote: Iris biometric identification
+      hovernote_more:
+      
+      enable_popup: False
+      report:
+
+    - id: 2017_pascal
+      size: col-sm-6
+      column: right
+
+      image: 2017_pascal_project.jpg
+      footnote: Pascal project
+      hovernote: Pascal project
+      hovernote_more: "[See report]"
+
+      enable_popup: False
+      report: 2017_pascal.pdf
+
+    - id: project_ec1
+      size: col-sm-6
+      image: 2014_ecg_spo2.jpg
+      content:
+      footnote: ECG and SpO2
+      hovernote: ECG and SpO2
+      hovernote_more:
+      column: left
+
+      enable_popup: False
+
+    - id: project_ec2
+      size: col-sm-6
+      column: left
+
+      image: 2014_echosounders.jpg
+      footnote: Echosounders electronics
+      hovernote: Echosounders electronics and sensing
+      hovernote_more: "[Read more...]"
+
+      enable_popup: True
+      abstract: 
+      youtube: https://www.youtube.com/embed/A5-8LTBxbHQ
+      publications:
+        - name: J. D. Hernández, G. Vallicrosa, E. Vidal, È. Pairet, M. Carreras, and P. Ridao. "On-line 3D Path Planning for Close-proximity Surveying with AUVs," in IFAC Workshop on Navigation, Guidance and Control of Underwater Vehicles. April 2015.
+          pdf: 15hernandez2015line.pdf
+          bibtex: 15hernandez2015line.txt
+          abstract: 15hernandez2015line_abstract.txt
+        - name: J. D. Hernández, E. Vidal, G. Vallicrosa, È. Pairet, and M. Carreras. "Simultaneous Mapping and Planning for Autonomous Underwater Vehicles in Unknown Environments," in MTS/IEEE OCEANS. October 2015.
+          pdf: 15hernandez2015simultaneous.pdf
+          bibtex: 15hernandez2015simultaneous.txt
+          abstract: 15hernandez2015simultaneous_abstract.txt
+          youtube: https://youtu.be/A5-8LTBxbHQ
+
+    - id: 2016_planning
+      size: col-sm-6
+      column: left
+
+      image: 2016_planning.jpg
+      footnote: Autonomous navigation
+      hovernote: Two-dimensional Offline Path Planning for a Turtlebot
+      hovernote_more: "[See report]"
+      
+      enable_popup: False
+      report: 2016_planning.pdf
+
+
+
+    - id: 2017_rss
+      size: col-sm-6
+      column: left
+
+      image: 2017_rss.jpg
+      footnote: Autonomous navigation
+      hovernote: Autonomous Mobile Robot for Remote Location Inspection
+      hovernote_more: "[See report]"
+
+      enable_popup: False
+      report: 2017_rss.pdf
+
+
+
+
+
+
+##############################
+##############################
+##############################
+- name: Former Projects - Industrial Automation
+  projects:
+    - id: project_fp1
+      size: col-sm-6
+      image: 2013_tactile_gui.jpg
+      footnote: Feed mill tactile GUI
+      hovernote: GUI design and development for the automation of a brand-new feed mill
+      hovernote_more:
+      column: left
+
+      enable_popup: False
+
+    - id: project_fp4
+      size: col-sm-6
+      image: 2014_surface_grinding_machine.jpg
+      footnote: Surface grinding machine
+      hovernote: Total redesign and rewiring of an old non-functional surface grinding machine
+      hovernote_more:
+      column: left
+
+      enable_popup: False
+
+    - id: project_fp2
+      size: col-sm-6
+      image: 2012_cnc_lathe.jpg
+      footnote: Lathe with CNC display
+      hovernote: Total redesign and rewiring of an old non-functional lathe with CNC display
+      hovernote_more:
+      column: right
+
+      enable_popup: False
+
+    - id: project_fp3
+      size: col-sm-6
+      image: 2012_surface_grinding_machine.jpg
+      footnote: Surface grinding machine
+      hovernote: Partial rewiring of an old non-functional surface grinding machine
+      hovernote_more:
+      column: right
+
+      enable_popup: False

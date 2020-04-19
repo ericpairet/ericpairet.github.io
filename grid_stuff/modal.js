@@ -18,4 +18,10 @@ function openModal(modal_id, modal_close_id) {
 		}
 	}
 
+  // close modal on ESC
+  window.addEventListener('keydown', function (event) {
+    if (event.key === 'Escape') {
+      modal.style.display = 'none'
+    }
+  })
 }

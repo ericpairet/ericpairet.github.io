@@ -1,0 +1,56 @@
+<center>
+  <h2>{{ project.hovernote }}</h2>
+</center>
+
+{%- if project.abstract -%}
+  <h3 style="margin-bottom: 0px">Abstract</h3>
+  <div align="justify">
+    {% include_relative {{ site.baseurl }}/publications/{{ project.abstract }} %}
+  </div>
+{%- endif -%}
+
+{%- if project.youtube -%}
+  <p style="margin: 10px;"></p>
+  <center>
+    <iframe width="560" height="315" src="{{ project.youtube }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </center>
+{%- endif -%}
+
+{%- if project.publications -%}
+  <h3 style="margin-bottom: 0px">Publications</h3>
+  {% include publications.html publications=project.publications %}
+{%- endif -%}
+
+{%- if project.report -%}
+  <h3 style="margin-bottom: 0px">Technical Report</h3>
+
+  <p style="margin: 5px;"></p>
+  <div>
+    <div align="justify"> {{ project.report.name }} </div>
+    <p style="margin: 5px;"></p>
+    {%- if project.report == null -%}
+      <a class="isDisabled" href="javascript:void(0)">
+        <button type="button" class="btn-unactive noselect disable">pdf</button>
+      </a>
+    {%- else -%}
+      <a href="{{ site.url }}/reports/{{ project.report }}">
+        <button type="button" class="btn-active noselect">pdf</button>
+      </a>
+    {%- endif -%}
+  </div>
+{%- endif -%}
+
+{%- if project.references -%}
+  <h3>References</h3>
+{%- endif -%}
+
+{%- if project.media -%}
+  <h3>Media</h3>
+{%- endif -%}
+
+
+
+
+
+<!-- TO INCLUDE PDF IN THE HTML -->
+<!-- <iframe src="{{ site.baseurl }}/publications/18pairet2018uncertainty.pdf" width="100%" height="100%" frameborder="0"></iframe> -->

@@ -1,8 +1,17 @@
 ---
 layout: default
 title: Projects
-permalink: /projects/
+permalink: /portfolio/
 ---
 
-<h1>Projects</h1>
-{% include projects.html %}
+<h1>Portfolio</h1>
+
+{%- for group in site.data.projects -%}
+
+	<div class="wrapper-header">
+	  <font size="4"><b>{{ group.name }}</b></font>
+	</div>
+
+	{% include projects.html projects=group.projects%}
+
+{%- endfor -%}
