@@ -8,7 +8,7 @@
       size: col-sm-12
       column: left
 
-      image: 2017_uncertainty.jpg
+      image: 2020_uncertainty.jpg
       footnote: Planning under uncertainty
       hovernote: Uncertainty-based Online Mapping and Motion Planning for Marine Robotics Guidance
       hovernote_more: "[Read more...]"
