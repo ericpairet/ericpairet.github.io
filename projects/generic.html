@@ -16,6 +16,13 @@
   </center>
 {%- endif -%}
 
+{%- if project.youtube_extra -%}
+  <p style="margin: 10px;"></p>
+  <center>
+    <iframe width="560" height="315" src="{{ project.youtube_extra }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </center>
+{%- endif -%}
+
 {%- if project.publications -%}
   <h3 style="margin-bottom: 0px">Publications</h3>
   {% include publications.html publications=project.publications %}

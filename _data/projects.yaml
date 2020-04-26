@@ -14,9 +14,15 @@
       hovernote_more: "[Read more...]"
 
       enable_popup: True
-      abstract: 18pairet2018uncertainty_abstract.txt
-      youtube: https://www.youtube.com/embed/dTejsNqNC00
+      abstract: 20pairet2020online_abstract.txt
+      youtube: https://youtube.com/embed/KV2QFglamZs
+      youtube_extra: https://www.youtube.com/embed/dTejsNqNC00
       publications:
+        - name: È. Pairet, J. D. Hernández Y. Petillot, and M. Lahijanian. "Online Mapping and Motion Planning under Uncertainty for Safe Navigation in Unknown Environments", in the International Journal of Robotics Research. Under review.
+          pdf: 20pairet2020online.pdf
+          bibtex:
+          abstract: 20pairet2020online_abstract.txt
+          youtube: https://youtu.be/KV2QFglamZs
         - name: È. Pairet, J. D. Hernández, M. Lahijanian, and M. Carreras. "Uncertainty-based Online Mapping and Motion Planning for Marine Robotics Guidance," in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems. October 2018.
           pdf: 18pairet2018uncertainty.pdf
           bibtex: 18pairet2018uncertainty.txt
@@ -102,6 +108,11 @@
       abstract: 19ardon2019learning_abstract.txt
       youtube: https://www.youtube.com/embed/aaA3NA-S5KY
       publications:
+        - name: P. Ardón, È. Pairet, K. Lohan, S. Ramamoorthy, and R. Petrick. "Affordances in Robotic Tasks - A Survey", in IEEE Transaction on Robotics. Under review.
+          pdf: 20ardon2020affordances.pdf
+          bibtex:
+          abstract: 20ardon2020affordances_abstract.txt
+          youtube:
         - name: P. Ardón, È. Pairet, R. Petrick, S. Ramamoorthy, and K. S. Lohan. "Learning Grasp Affordance Reasoning through Semantic Relations," in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems and IEEE Robotics and Automation Letters. November 2019.
           pdf: 19ardon2019learning.pdf
           bibtex: 19ardon2019learning.txt
