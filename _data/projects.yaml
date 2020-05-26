@@ -18,7 +18,7 @@
       youtube: https://www.youtube.com/embed/I5X_QFKDpeI
       youtube_extra: https://www.youtube.com/embed/dTejsNqNC00
       publications:
-        - name: È. Pairet, J. D. Hernández Y. Petillot, and M. Lahijanian. "Online Mapping and Motion Planning under Uncertainty for Safe Navigation in Unknown Environments", in the International Journal of Robotics Research. Under review.
+        - name: È. Pairet, J. D. Hernández, M. Carreras, Y. Petillot, and M. Lahijanian. "Online Mapping and Motion Planning under Uncertainty for Safe Navigation in Unknown Environments", in the International Journal of Robotics Research. Under review.
           pdf: 20pairet2020online.pdf
           bibtex:
           abstract: 20pairet2020online_abstract.txt
