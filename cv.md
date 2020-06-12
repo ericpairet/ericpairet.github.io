@@ -4,7 +4,10 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 
-A summary of my CV is listed below. For a more complete version, please email me.
+<a href="{{ site.url }}/cv.pdf">Here is my complete Curriculum Vitae.</a> Highlights of my education, research and work experience are listed below.
+<!-- <a href="{{ site.url }}/projects/{{ project.report }}" target="_blank"></a> -->
+
+
 
 <!-- -->
 <!-- EDUCATION -->
@@ -18,7 +21,7 @@ A summary of my CV is listed below. For a more complete version, please email me
     <p>2018 / Present</p>
   </div>
   <div class="column column-right justify">
-    <p><b>Centre for Doctoral Training in Robotics and Autonomous Systems</b> (CDT-RAS). <br> The University of Edinburgh and Heriot-Watt University (UK).</p>
+    <p><b>Centre for Doctoral Training in Robotics and Autonomous Systems</b> (CDT-RAS) <br> The University of Edinburgh and Heriot-Watt University (UK)</p>
   </div>
 </div>
 
@@ -27,7 +30,8 @@ A summary of my CV is listed below. For a more complete version, please email me
     <p>2017 / 2018</p>
   </div>
   <div class="column column-right justify">
-    <p><b>Master of Science in Robotics and Autonomous Systems</b> (MSc-RAS). <br> The University of Edinburgh and Heriot-Watt University (UK).</p>
+    <p><b>Master of Science in Robotics and Autonomous Systems</b> (MSc-RAS) <br> The University of Edinburgh and Heriot-Watt University (UK) <br> <font color="orange">Graduated with distinction</font></p>
+		<!-- <font color="orange">Graduated with distinction.</font> -->
   </div>
 </div>
 
@@ -36,7 +40,7 @@ A summary of my CV is listed below. For a more complete version, please email me
     <p>2015 / 2017</p>
   </div>
   <div class="column column-right justify">
-    <p><b>Erasmus Mundus master in computer vision and robotics</b> (VIBOT). <br> University of Burgundy (France), University of Girona (Spain) and Heriot-Watt University (UK).</p>
+    <p><b>Erasmus Mundus master in computer vision and robotics</b> (VIBOT) <br> University of Burgundy (France), University of Girona (Spain) and Heriot-Watt University (UK) <br> <font color="orange">Graduated with distinction</font></p>
   </div>
 </div>
 
@@ -45,7 +49,7 @@ A summary of my CV is listed below. For a more complete version, please email me
     <p>2011 / 2015</p>
   </div>
   <div class="column column-right justify">
-    <p><b>Bachelors in electronic and automation engineering</b> (GEEIA).  <br> University of Girona (Spain).</p>
+    <p><b>Bachelors in electronic and automation engineering</b> (GEEIA) <br> University of Girona (Spain) <br> <font color="orange">Graduated with national distinction</font></p>
   </div>
 </div>
 
@@ -61,16 +65,34 @@ A summary of my CV is listed below. For a more complete version, please email me
     <p>2017 / Present</p>
   </div>
   <div class="column column-right justify">
-    <p><b>Edinburgh Centre for Robotics</b> (ECR). <br> The University of Edinburgh and Heriot-Watt University (UK). <br><i> Description:  Research on learning tasks involving dual-arm manipulation skills for humanoid robots and industrial manipulators. Also continuing the research on motion planning under probabilistic constraints.</i></p>
+    <p><b>Research Assistant</b> <br> Offshore and Robotics for Certification Assets (ORCA Hub) (UK) <br> <i>Description: Research and deployment of motion planning strategies for mobile base robots and manipulators, and development of a digital-twin simulator.</i></p>
   </div>
 </div>
 
 <div class="row">
   <div class="column column-left">
-    <p>2014 / 2017</p>
+    <p>2019 / 2020</p>
   </div>
   <div class="column column-right justify">
-    <p><b>Underwater Vision and Robotics Research Centre</b> (CIRS). <br> University of Girona (Spain). <br><i> Description:  Research on motion planning under probabilistic constraints, design and program control architectures, design and manufacture hardware, program firmware and execute mechatronics tasks on underwater robots.</i></p>
+    <p><b>Visiting Scholar</b> <br> Kavraki Lab, Rice University (Texas, US) <br> <i>Description: Research on experience-based motion planning algorithms for robotic manipulators. Collaboration with Prof. Lydia Kavraki. 5-month placement.</i></p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column column-left">
+    <p>2016 / 2017</p>
+  </div>
+  <div class="column column-right justify">
+    <p><b>Research Assistant</b> <br> Underwater Vision and Robotics Research Centre (CIRS), University of Girona (Spain) <br> <i>Description: Applied research on motion planning under kinodynamic and probabilistic constraints, and design and integration of control architectures.</i></p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column column-left">
+    <p>2014 / 2016</p>
+  </div>
+  <div class="column column-right justify">
+    <p><b>Mechatronics Engineer</b> <br> Underwater Vision and Robotics Research Centre (CIRS), University of Girona (Spain) <br> <i>Description: Design, manufacture, and integrate hardware, program firmware and execute mechatronics tasks on underwater robots.</i></p>
   </div>
 </div>
 
@@ -79,7 +101,7 @@ A summary of my CV is listed below. For a more complete version, please email me
     <p>2013 / 2014</p>
   </div>
   <div class="column column-right justify">
-    <p><b>Department of computer science, applied mathematics and statistics </b> (IMAE). <br> University of Girona (Spain). <br><i> Description:  Writing of teaching material for the statistics subject taught to the engineering bachelors of the University of Girona.</i></p>
+    <p><b>Laboratory Assistant</b> <br> Department of computer science, applied mathematics and statistics (IMAE), University of Girona (Spain) <br> <i>Description: Preparation of teaching material for undergraduate engineering statistics courses at the University of Girona.</i></p>
   </div>
 </div>
 
@@ -88,7 +110,7 @@ A summary of my CV is listed below. For a more complete version, please email me
     <p>2013</p>
   </div>
   <div class="column column-right justify">
-    <p><b>Aplicacions Elèctriques </b> (AETech) (Spain). <br><i> Description:  Program PLCs, configure HMI systems and develop a self-department management project with Visual Basic.</i></p>
+    <p><b>Industrial Automation Engineer</b> <br> Aplicacions Elèctriques (AETech) (Spain) <br> <i>Description: Program PLCs, configure HMI systems and develop a tool for the management of industrial automation projects.</i></p>
   </div>
 </div>
 
@@ -97,7 +119,7 @@ A summary of my CV is listed below. For a more complete version, please email me
     <p>2008 / 2011</p>
   </div>
   <div class="column column-right justify">
-    <p><b>Automatismes Girona </b> (AUGI S.L.) (Spain). <br><i> Description:  Install, repair and maintain industrial automated systems. Wire up automation control stations. Mechanise small structures.</i></p>
+    <p><b>Industrial Automation Technician</b> <br> Automatismes Girona (AUGI S.L.) (Spain) <br> <i>Description: Install, repair and maintain industrial automated systems. Wire up automation control stations. Mechanise small structures.</i></p>
   </div>
 </div>
 
@@ -106,9 +128,10 @@ A summary of my CV is listed below. For a more complete version, please email me
     <p>2007 / 2008</p>
   </div>
   <div class="column column-right justify">
-    <p><b>CLIFEL S.A. </b> (Spain). <br><i> Description:  Install, repair and maintain installations of electricity, domestic water and gas in housing, offices, shops and small industry.</i></p>
+    <p><b>Electrical Technician</b> <br> CLIFEL S.A. (Spain) <br> <i>Description: Install, repair and maintain installations of electricity, domestic water and gas in housing, offices, shops and small industry.</i></p>
   </div>
 </div>
+
 
 
 
