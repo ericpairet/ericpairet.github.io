@@ -1,8 +1,8 @@
-@inproceedings{pairet2019digital,
+@inproceedings{robb2020robots,
   title={Robots in the Danger Zone: Exploring Public Perception through Engagement},
   author={Robb, David and Ahmad, Muneeb and Tiseo, Carlo and Aracri, Simona and McConnell, Alistari C and Page, Vincent and Dondrup, Christian and Garcia, Francisco and Nguyen, Hai and Pairet, {\`E}ric and Ard{\'o}n, Paola and Semwal, Tushar and Taylor, Hazel and Wilson, Lindsay and Lane, David and Hastie, Helen and Lohan, Katrin S}
   booktitle={2020 15th ACM/IEEE International Conference on Human-Robot Interaction (HRI)},
-  pages={},
+  pages={93--102},
   year={2020},
   organization={IEEE}
 }

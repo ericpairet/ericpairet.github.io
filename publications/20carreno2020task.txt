@@ -1,6 +1,7 @@
-@inoroceedings{carreno2020task,
+@inproceedings{carreno2020task,
   title={Task Allocation Strategy for Heterogeneous Robot Teams in Offshore Missions},
-  author={Carreno, Yaniel and Pairet, {\`E}ric and Petillot, Yvan and Petrick, Ronald P A},
-  booktitle={Proceedings of the 2020 International Conference on Autonomous Agents and Multiagent Systems},
+  author={Carreno, Yaniel and Pairet, {\`E}ric and Petillot, Yvan and Petrick, Ronald PA},
+  booktitle={Proceedings of the 19th International Conference on Autonomous Agents and MultiAgent Systems},
+  pages={222--230},
   year={2020}
 }

@@ -1,8 +1,8 @@
 @inproceedings{pairet2019learning,
   title={Learning and Composing Primitive Skills for Dual-arm Manipulation},
-  author = {Pairet, {\`E}ric and Ard{\'o}n, Paola and Mistry, Michael and Petillot, Yvan},
-  booktitle={Conference Towards Autonomous Robotic Systems},
-  pages={},
+  author={Pairet, {\`E}ric and Ard{\'o}n, Paola and Mistry, Michael and Petillot, Yvan},
+  booktitle={Annual Conference Towards Autonomous Robotic Systems},
+  pages={65--77},
   year={2019},
   organization={Springer}
 }

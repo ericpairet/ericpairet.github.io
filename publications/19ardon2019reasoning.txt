@@ -1,8 +1,8 @@
 @inproceedings{ardon2019reasoning,
   title={Reasoning on Grasp-Action Affordances},
   author={Ard{\'o}n, Paola and Pairet, {\`E}ric and Petrick, Ron and Ramamoorthy, Subramanian and Lohan, Katrin Solveig},
-  booktitle={Conference Towards Autonomous Robotic Systems},
-  pages={},
+  booktitle={Annual Conference Towards Autonomous Robotic Systems},
+  pages={3--15},
   year={2019},
   organization={Springer}
 }
