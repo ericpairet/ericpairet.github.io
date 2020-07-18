@@ -1,0 +1,8 @@
+@inproceedings{ardon2020self,
+  title={Self-Assessment of Grasp Affordance Transfer},
+  author={Ard{\'o}n, Paola and Pairet, {\`E}ric and Petillot, Yvan and Petrick, Ronald PA and Ramamoorthy, Subramanian and Lohan, Katrin S},
+  booktitle={2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={},
+  year={2020},
+  organization={IEEE}
+}
