@@ -1,4 +1,4 @@
-- name: È. Pairet, J. D. Hernández, M. Carreras, Y. Petillot, and M. Lahijanian. "Online Mapping and Motion Planning under Uncertainty for Safe Navigation in Unknown Environments", in the International Journal of Robotics Research. Under review.
+- name: È. Pairet, J. D. Hernández, M. Carreras, Y. Petillot, and M. Lahijanian. "Online Mapping and Motion Planning under Uncertainty for Safe Navigation in Unknown Environments".
   pdf: 20pairet2020online.pdf
   bibtex:
   abstract: 20pairet2020online_abstract.txt
@@ -10,11 +10,41 @@
   abstract: 20ardon2020affordances_abstract.txt
   youtube:
 
+- name: È. Pairet, C. Chamzas, Y. Petillot, and L. Kavraki. "Path Planning for Manipulation using Experience-driven Random Trees", in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems and IEEE Robotics and Automation Letters. Under review.
+  pdf:
+  bibtex:
+  abstract:
+  youtube:
+
+- name: P. Ardón, Maria E. Cabrera, È. Pairet, R. Petrick, S. Ramamoorthy, K. Lohan, Maya Cakmak. "Affordance-aware Handovers with Human Arm Mobility Constraints", in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems and IEEE Robotics and Automation Letters. Under review.
+  pdf:
+  bibtex:
+  abstract:
+  youtube:
+
 - name: P. Ardón, È. Pairet, Y. Petillot, R. Petrick, S. Ramamoorthy, and K. Lohan. "Self-assessment of Grasp Affordance Transfer", in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems. To appear.
   pdf: 20ardon2020self.pdf
   bibtex: 20ardon2020self.txt
   abstract: 20ardon2020self_abstract.txt
   youtube: https://youtu.be/nCCc3_Rk8Ks
+
+- name: Y. Carreno, È. Pairet, Y. Petillot, and R. Petrick. "A Decentralised Strategy for Heterogeneous AUV Missions via Goal Distribution and Temporal Planning", in Intl. Conf. on Automated Planning and Scheduling. October 2020.
+  pdf: 20carreno2020a.pdf
+  bibtex: 20carreno2020a.txt
+  abstract: 20carreno2020a_abstract.txt
+  youtube: https://youtu.be/vi1LorRLNMY
+
+- name: Y. Carreno, È. Pairet, Y. Petillot, and R. Petrick. "Decentralised Task Allocation and Planning for Heterogeneous AUVs", in Intl. Conf. on Automated Planning and Scheduling System Demonstration. October 2020.
+  pdf:
+  bibtex:
+  abstract:
+  youtube:
+
+- name: Y. Carreno, È. Pairet, P. Ardón, Y. Petillot, and R. Petrick. "Task Allocation and Planning for Offshore Mission Automation", in Intl. Conf. on Automated Planning and Scheduling System Demonstration. October 2020.
+  pdf:
+  bibtex:
+  abstract:
+  youtube:
 
 - name: K. Lohan, M. Ahmad, C. Dondrup, P. Ardón, È. Pairet, and A. Vinciarelli. "Adapting Movements and Behaviour to Favour Communication in Human-Robot Interaction", in Modelling Human Motion&#58; from Human Perception to Robot Design. Springer. In press.
   pdf:
@@ -22,17 +52,11 @@
   abstract:
   youtube:
 
-- name: Y. Carreno, È. Pairet, Y. Petillot, and R. Petrick. "A Decentralised Strategy for Heterogeneous AUV Missions via Goal Distribution and Temporal Planning", in Intl. Conf. on Automated Planning and Scheduling. July 2020.
-  pdf: 20carreno2020a.pdf
-  bibtex: 20carreno2020a.txt
-  abstract: 20carreno2020a_abstract.txt
-  youtube:
-
 - name: Y. Carreno, È. Pairet, Y. Petillot, and R. Petrick. "Task Allocation Strategy for Heterogeneous Robot Teams in Offshore Missions", in Intl. Conf. on Autonomous Agents and Multiagent Systems. May 2020.
   pdf: 20carreno2020task.pdf
   bibtex: 20carreno2020task.txt
   abstract: 20carreno2020task_abstract.txt
-  youtube:
+  youtube: https://underline.io/lecture/525-task-allocation-strategy-temporal-planning-long-term-autonomy
 
 - name: D. Robb, M. Ahmad, C. Tiseo, S. Aracri, A. C. McConnell, V. Page, C. Dondrup, F. Garcia, H. Nguyen, È. Pairet, P. Ardón, T. Semwal, H. Taylor, L. Wilson, D. Lane, H. Hastie, and K. Lohan. “Robots in the Danger Zone&#58; Exploring Public Perception through Engagement”, in ACM/IEEE Intl. Conf. on Human-Robot Interaction. March 2020.
   pdf: 20robb2020robots.pdf
