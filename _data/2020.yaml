@@ -1,27 +1,3 @@
-- name: È. Pairet, C. Chamzas, Y. Petillot, and L. Kavraki. "Path Planning for Manipulation using Experience-driven Random Trees", in IEEE/RSJ Intl. Conf. on Robotics and Automation, and IEEE Robotics and Automation Letters. Under review.
-  pdf:
-  bibtex:
-  abstract:
-  youtube:
-
-- name: P. Ardón, Maria E. Cabrera, È. Pairet, R. Petrick, S. Ramamoorthy, K. Lohan, Maya Cakmak. "Affordance-aware Handovers with Human Arm Mobility Constraints", in IEEE/RSJ Intl. Conf. on Robotics and Automation, and IEEE Robotics and Automation Letters. Under review.
-  pdf:
-  bibtex:
-  abstract:
-  youtube:
-
-- name: È. Pairet, J. D. Hernández, M. Carreras, Y. Petillot, and M. Lahijanian. "Online Mapping and Motion Planning under Uncertainty for Safe Navigation in Unknown Environments".
-  pdf: 20pairet2020online.pdf
-  bibtex:
-  abstract: 20pairet2020online_abstract.txt
-  youtube: https://youtu.be/I5X_QFKDpeI
-
-- name: P. Ardón, È. Pairet, K. Lohan, S. Ramamoorthy, and R. Petrick. "Affordances in Robotic Tasks - A Survey", in IEEE Transaction on Robotics. Under review.
-  pdf: 20ardon2020affordances.pdf
-  bibtex:
-  abstract: 20ardon2020affordances_abstract.txt
-  youtube:
-
 - name: P. Ardón, È. Pairet, Y. Petillot, R. Petrick, S. Ramamoorthy, and K. Lohan. "Self-assessment of Grasp Affordance Transfer", in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems. To appear.
   pdf: 20ardon2020self.pdf
   bibtex: 20ardon2020self.txt
