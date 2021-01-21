@@ -22,12 +22,6 @@
   abstract:
   youtube:
 
-- name: È. Pairet, J. D. Hernández, M. Carreras, Y. Petillot, and M. Lahijanian. "Online Mapping and Motion Planning under Uncertainty for Safe Navigation in Unknown Environments".
-  pdf: 20pairet2020online.pdf
-  bibtex:
-  abstract: 20pairet2020online_abstract.txt
-  youtube: https://youtu.be/I5X_QFKDpeI
-
 - name: P. Ardón, È. Pairet, K. Lohan, S. Ramamoorthy, and R. Petrick. "Affordances in Robotic Tasks - A Survey", in IEEE Transaction on Robotics. Under review.
   pdf: 20ardon2020affordances.pdf
   bibtex:

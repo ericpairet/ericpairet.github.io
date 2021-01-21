@@ -1,3 +1,9 @@
+- name: È. Pairet, J. D. Hernández, M. Carreras, Y. Petillot, and M. Lahijanian. "Online Mapping and Motion Planning under Uncertainty for Safe Navigation in Unknown Environments".
+  pdf: 20pairet2020online.pdf
+  bibtex: 20pairet2020online.txt
+  abstract: 20pairet2020online_abstract.txt
+  youtube: https://youtu.be/I5X_QFKDpeI
+
 - name: P. Ardón, È. Pairet, Y. Petillot, R. Petrick, S. Ramamoorthy, and K. Lohan. "Self-assessment of Grasp Affordance Transfer", in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems. October 2020.
   pdf: 20ardon2020self.pdf
   bibtex: 20ardon2020self.txt
