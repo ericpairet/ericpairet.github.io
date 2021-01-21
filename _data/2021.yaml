@@ -10,7 +10,13 @@
   abstract:
   youtube:
 
-- name: P. Ardón, Maria E. Cabrera, È. Pairet, R. Petrick, S. Ramamoorthy, K. Lohan, Maya Cakmak. "Affordance-aware Handovers with Human Arm Mobility Constraints", in IEEE/RSJ Intl. Conf. on Robotics and Automation, and IEEE Robotics and Automation Letters. Under review.
+- name: P. Ardón, Maria E. Cabrera, È. Pairet, R. Petrick, S. Ramamoorthy, K. Lohan, and Maya Cakmak. "Affordance-aware Handovers with Human Arm Mobility Constraints", in IEEE/RSJ Intl. Conf. on Robotics and Automation, and IEEE Robotics and Automation Letters. Under review.
+  pdf:
+  bibtex:
+  abstract:
+  youtube:
+
+- name: Y. Carreno, P. Le Bras, È. Pairet, P. Ardón, M. Chantler, and R. Petrick. "An Integrated Framework for Remote Planning", in Intl. Conf. on Automated Planning and Scheduling System Demonstration. Under review.
   pdf:
   bibtex:
   abstract:
