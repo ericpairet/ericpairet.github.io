@@ -1,0 +1,11 @@
+@article{scharff2021online,
+  title={Online 3-Dimensional Path Planning with Kinematic Constraints in Unknown Environments Using Hybrid A* with Tree Pruning},
+  author={Willners, Jonatan Scharff and Gonzalez-Adell, Daniel and Hern{\'a}ndez, Juan David and Pairet, {\`E}ric and Petillot, Yvan},
+  journal={Sensors},
+  volume={21},
+  number={4},
+  year={2021},
+  article-number = {1152},
+  issn = {1424-8220},
+  doi = {10.3390/s21041152}
+}
