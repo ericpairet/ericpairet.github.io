@@ -1,4 +1,4 @@
-- name: È. Pairet, C. Chamzas, Y. Petillot, and L. Kavraki. "Path Planning for Manipulation using Experience-driven Random Trees", in IEEE Robotics and Automation Letters. 
+- name: È. Pairet, C. Chamzas, Y. Petillot, and L. Kavraki. "Path Planning for Manipulation using Experience-driven Random Trees", in IEEE Robotics and Automation Letters.
   pdf:
   bibtex:
   abstract:
@@ -13,7 +13,7 @@
 - name: P. Ardón, Maria E. Cabrera, È. Pairet, R. Petrick, S. Ramamoorthy, K. Lohan, and Maya Cakmak. "Affordance-aware Handovers with Human Arm Mobility Constraints", in IEEE Robotics and Automation Letters.
   pdf: 21ardon2021affordance.pdf
   bibtex: 21ardon2021affordance.txt
-  abstract: 21ardon2021affordance_abstract.pdf
+  abstract: 21ardon2021affordance_abstract.txt
   youtube: https://youtu.be/cFsAEpSn_LI
 
 - name: J. S. Willners, D. Gonzalez, J. D. Hernández, È. Pairet, and Y. Petillot. "Online 3-Dimensional Path Planning with Kinematic Constraints in Unknown Environments Using Hybrid-A* with Tree Pruning", in Sensors. In press.
