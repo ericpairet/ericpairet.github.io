@@ -1,4 +1,4 @@
-- name: È. Pairet, C. Chamzas, Y. Petillot, and L. Kavraki. "Path Planning for Manipulation using Experience-driven Random Trees", in IEEE/RSJ Intl. Conf. on Robotics and Automation, and IEEE Robotics and Automation Letters. Under review.
+- name: È. Pairet, C. Chamzas, Y. Petillot, and L. Kavraki. "Path Planning for Manipulation using Experience-driven Random Trees", in IEEE Robotics and Automation Letters. 
   pdf:
   bibtex:
   abstract:
@@ -10,19 +10,19 @@
   abstract:
   youtube:
 
-- name: P. Ardón, Maria E. Cabrera, È. Pairet, R. Petrick, S. Ramamoorthy, K. Lohan, and Maya Cakmak. "Affordance-aware Handovers with Human Arm Mobility Constraints", in IEEE/RSJ Intl. Conf. on Robotics and Automation, and IEEE Robotics and Automation Letters.
-  pdf:
-  bibtex:
-  abstract:
-  youtube:
+- name: P. Ardón, Maria E. Cabrera, È. Pairet, R. Petrick, S. Ramamoorthy, K. Lohan, and Maya Cakmak. "Affordance-aware Handovers with Human Arm Mobility Constraints", in IEEE Robotics and Automation Letters.
+  pdf: 21ardon2021affordance.pdf
+  bibtex: 21ardon2021affordance.txt
+  abstract: 21ardon2021affordance_abstract.pdf
+  youtube: https://youtu.be/cFsAEpSn_LI
 
-- name: J. S. Willners, D. Gonzalez, J. D. Hernández, È. Pairet, and Y. Petillot. "Online 3-Dimensional Path Planning with Kinematic Constraints in Unknown Environments Using Hybrid-A* with Tree Pruning", in Sensors. Under review.
+- name: J. S. Willners, D. Gonzalez, J. D. Hernández, È. Pairet, and Y. Petillot. "Online 3-Dimensional Path Planning with Kinematic Constraints in Unknown Environments Using Hybrid-A* with Tree Pruning", in Sensors. In press.
   pdf: 21scharff2021online.pdf
   bibtex: 21scharff2021online.txt
-  abstract: 21scharff2021online_abstract.pdf
+  abstract: 21scharff2021online_abstract.txt
   youtube:
 
-- name: P. Ardón, È. Pairet, K. Lohan, S. Ramamoorthy, and R. Petrick. "Affordances in Robotic Tasks - A Survey", in IEEE Transaction on Robotics. Under review.
+- name: P. Ardón, È. Pairet, K. Lohan, S. Ramamoorthy, and R. Petrick. "Affordances in Robotic Tasks - A Survey".
   pdf: 20ardon2020affordances.pdf
   bibtex:
   abstract: 20ardon2020affordances_abstract.txt

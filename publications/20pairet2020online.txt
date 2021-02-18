@@ -1,8 +1,6 @@
-@misc{pairet2020online,
-  title={Online Mapping and Motion Planning under Uncertainty for Safe Navigation in Unknown Environments},
-  author={Pairet, {\`E}ric and Hern{\'a}ndez, Juan David and Carreras, Marc and Petillot, Yvan and Lahijanian, Morteza},
-  year={2020},
-  eprint={2004.12317},
-  archivePrefix={arXiv},
-  primaryClass={cs.RO}
+@article{pairet2020online,
+  title={Online mapping and motion planning under uncertainty for safe navigation in unknown environments},
+  author={Pairet, {\`E}ric and Hern{\'a}ndez, Juan David and Petillot, Yvan and Lahijanian, Morteza},
+  journal={arXiv preprint arXiv:2004.12317},
+  year={2020}
 }
