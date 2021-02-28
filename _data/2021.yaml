@@ -1,8 +1,8 @@
 - name: È. Pairet, C. Chamzas, Y. Petillot, and L. Kavraki. "Path Planning for Manipulation using Experience-driven Random Trees", in IEEE Robotics and Automation Letters.
-  pdf:
-  bibtex:
-  abstract:
-  youtube:
+  pdf: 21pairet2021path.pdf
+  bibtex: 21pairet2021path.txt
+  abstract: 21pairet2021path_abstract.txt
+  youtube: https://youtu.be/kD3A3Xs_psI
 
 - name: Y. Carreno, P. Le Bras, È. Pairet, P. Ardón, M. Chantler, and R. Petrick. "An Integrated Framework for Remote Planning", in Intl. Conf. on Automated Planning and Scheduling. Under review.
   pdf:
