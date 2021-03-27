@@ -1,10 +1,11 @@
 @article{pairet2021path,
-  title={Path Planning for Manipulation using Experience-driven Random Trees},
-  author={Pairet, {\`E}ric and Chamzas, Constantinos and Petillot, Yvan and Kavraki, Lydia},
-  journal={IEEE Robotics and Automation Letters},
-  volume={},
-  number={},
-  pages={},
-  year={2021},
-  publisher={IEEE}
+	title={Path Planning for Manipulation Using Experience-Driven Random Trees},
+	author={Pairet, {\`E}ric and Chamzas, Constantinos and Petillot, Yvan and Kavraki, Lydia},
+	journal={IEEE Robotics and Automation Letters},
+	volume={6},
+	number={2},
+	pages={3295-3302},
+	year={2021},
+	publisher={IEEE},
+	doi={10.1109/LRA.2021.3063063}
 }

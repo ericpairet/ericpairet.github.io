@@ -1,10 +1,11 @@
 @article{ardon2021affordance,
-  title={Affordance-Aware Handovers with Human Arm Mobility Constraints},
-  author={Ard{\'o}n, Paola and Cabrera, Maria Eugenia and Pairet, {\`E}ric and Petrick, Ronald PA and Ramamoorthy, Subramanian and Lohan, Katrin S and Cakmak, Maya},
-  journal={IEEE Robotics and Automation Letters},
-  volume={},
-  number={},
-  pages={},
-  year={2021},
-  publisher={IEEE}
+	title={Affordance-Aware Handovers with Human Arm Mobility Constraints},
+	author={Ard{\'o}n, Paola and Cabrera, Maria Eugenia and Pairet, {\`E}ric and Petrick, Ronald PA and Ramamoorthy, Subramanian and Lohan, Katrin S and Cakmak, Maya},
+	journal={IEEE Robotics and Automation Letters},
+	volume={6},
+	number={2},
+	pages={3136-3143},
+	year={2021},
+	publisher={IEEE},
+	doi={10.1109/LRA.2021.3062808}
 }
