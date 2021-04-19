@@ -1,3 +1,9 @@
+- name: P. Ardón, È. Pairet, K. Lohan, S. Ramamoorthy, and R. Petrick. "Building Affordance Relations for Robotic Agents - A Survey - A Survey", in Intl. Joint Conf. on Artificial Intelligence.
+  pdf: #20ardon2020affordances.pdf
+  bibtex:
+  abstract: #20ardon2020affordances_abstract.txt
+  youtube:
+
 - name: È. Pairet, C. Chamzas, Y. Petillot, and L. Kavraki. "Path Planning for Manipulation using Experience-driven Random Trees", in IEEE Robotics and Automation Letters.
   pdf: 21pairet2021path.pdf
   bibtex: 21pairet2021path.txt
@@ -20,10 +26,4 @@
   pdf: 21scharff2021online.pdf
   bibtex: 21scharff2021online.txt
   abstract: 21scharff2021online_abstract.txt
-  youtube:
-
-- name: P. Ardón, È. Pairet, K. Lohan, S. Ramamoorthy, and R. Petrick. "Affordances in Robotic Tasks - A Survey".
-  pdf: 20ardon2020affordances.pdf
-  bibtex:
-  abstract: 20ardon2020affordances_abstract.txt
   youtube:
