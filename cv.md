@@ -4,7 +4,8 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 
-<a href="{{ site.url }}/cv.pdf">Here is my complete Curriculum Vitae.</a> Highlights of my education, research and work experience are listed below.
+<!-- <a href="{{ site.url }}/cv.pdf">Here is my complete Curriculum Vitae.</a> Highlights of my education, research and work experience are listed below. -->
+Please <a href="{{ site.url }}/contact/">contact me</a> for my complete Curriculum Vitae. Highlights of my education, research and work experience are listed below.
 <!-- <a href="{{ site.url }}/projects/{{ project.report }}" target="_blank"></a> -->
 
 

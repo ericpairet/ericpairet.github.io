@@ -4,9 +4,8 @@ title: Contact
 permalink: /contact/
 ---
 
-PhD candidate <br>
-Edinburgh Centre for Robotics <br> 
-The University of Edinburgh and Heriot-Watt University <br>
-Edinburgh (UK) 
+Senior Researcher <br>
+The Technology Innovation Institute (TII) <br>
+Abu Dhabi (UAE)
 
-email: [eric.pairet@ed.ac.uk](mailto:eric.pairet@ed.ac.uk)
+email: [ericpairet at gmail dot com](mailto:ericpairet@gmail.com)
