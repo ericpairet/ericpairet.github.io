@@ -1,0 +1,8 @@
+@inproceedings{carreno2021an,
+  title={An Integrated Framework for Remote Planning},
+  author={Carreno, Yaniel and Le Bras, Pierre and Pairet, {\`E}ric and Ard{\'o}n, Paola and Chantler, Mike and Petrick, Ronald PA},
+  booktitle={Proceedings of the International Conference on Automated Planning and Scheduling - Integrated Planning, Acting, and Execution Workshop},
+  volume={},
+  pages={},
+  year={2021}
+}

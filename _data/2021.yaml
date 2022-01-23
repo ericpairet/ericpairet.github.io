@@ -1,7 +1,37 @@
+- name: È. Pairet, J. D. Hernández, M. Carreras, Y. Petillot, and M. Lahijanian. "Online Mapping and Motion Planning under Uncertainty for Safe Navigation in Unknown Environments", in IEEE Transactions on Automation Sience and Engineering.
+  pdf: 21pairet2021online.pdf
+  bibtex: 21pairet2021online.txt
+  abstract: 21pairet2021online_abstract.txt
+  youtube: https://youtu.be/I5X_QFKDpeI
+
+- name: J. S. Willners, I. Carlucho, S. Katagiri, C. Lemoine, J. Roe, D. Stephens, T. Łuczyński, S. Xu, Y. Carreno, È. Pairet, S. Wang, C. Barbalata, and Y. Petillot. "From market-ready ROVs to low-cost AUVs", in IEEE OCEANS.
+  pdf: 21scharff2021from.pdf
+  bibtex: 21scharff2021from.txt
+  abstract: 21scharff2021from_abstract.txt
+  youtube:
+
+- name: P. Ardón, M. E. Cabrera, È. Pairet, R. Petrick, S. Ramamoorthy, K. Lohan, and M. Cakmak. "Affordance-Aware Handovers with Human Arm Mobility Constraints", in , IEEE Intl. Conf. on Robotics and Automation - Workshop on Learning for Caregiving Robots. <font color="orange">Best presentation award.</font>
+  pdf: 21ardon2021affordanceWS.pdf
+  bibtex: 21ardon2021affordanceWS.txt
+  abstract: 21ardon2021affordanceWS_abstract.txt
+  youtube:
+
+- name: J. S. Willners, Y. Carreno, S. Xu, T. Łuczyński, S. Katagiri, J. Roe, È. Pairet, Y. Petillot, and S. Wang. "Robust Underwater SLAM using Autonomous Relocalisation", in 13th IFAC Conf. on Control Applications in Marine Systems, Robotics, and Vehicles.
+  pdf: 21scharff2021robust.pdf
+  bibtex: 21scharff2021robust.txt
+  abstract: 21scharff2021robust_abstract.txt
+  youtube:
+
+- name: Y. Carreno, P. Le Bras, È. Pairet, P. Ardón, M. Chantler, and R. Petrick. "An Integrated Framework for Remote Planning", in Intl. Conf. on Automated Planning and Scheduling - Workshop on Integrated Planning, Acting, and Execution.
+  pdf: 21carreno2021an.pdf
+  bibtex: 21carreno2021an.txt
+  abstract: 21carreno2021an_abstract.txt
+  youtube:
+
 - name: P. Ardón, È. Pairet, K. Lohan, S. Ramamoorthy, and R. Petrick. "Building Affordance Relations for Robotic Agents - A Survey - A Survey", in Intl. Joint Conf. on Artificial Intelligence.
-  pdf: #20ardon2020affordances.pdf
-  bibtex:
-  abstract: #20ardon2020affordances_abstract.txt
+  pdf: 21ardon2021building.pdf
+  bibtex: 21ardon2021building.txt
+  abstract: 21ardon2021building_abstract.txt
   youtube:
 
 - name: È. Pairet, C. Chamzas, Y. Petillot, and L. Kavraki. "Path Planning for Manipulation using Experience-driven Random Trees", in IEEE Robotics and Automation Letters.
@@ -9,12 +39,6 @@
   bibtex: 21pairet2021path.txt
   abstract: 21pairet2021path_abstract.txt
   youtube: https://youtu.be/kD3A3Xs_psI
-
-- name: Y. Carreno, P. Le Bras, È. Pairet, P. Ardón, M. Chantler, and R. Petrick. "An Integrated Framework for Remote Planning", in Intl. Conf. on Automated Planning and Scheduling. Under review.
-  pdf:
-  bibtex:
-  abstract:
-  youtube:
 
 - name: P. Ardón, Maria E. Cabrera, È. Pairet, R. Petrick, S. Ramamoorthy, K. Lohan, and Maya Cakmak. "Affordance-aware Handovers with Human Arm Mobility Constraints", in IEEE Robotics and Automation Letters.
   pdf: 21ardon2021affordance.pdf

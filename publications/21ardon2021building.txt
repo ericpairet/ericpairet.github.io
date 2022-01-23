@@ -1,0 +1,7 @@
+@article{ardon2021building,
+  title={Building Affordance Relations for Robotic Agents - A Survey},
+  author={Ard{\'o}n, Paola and Pairet, {\`E}ric and Lohan, Katrin S and Ramamoorthy, Subramanian and Petrick, Ronald},
+  journal={International Joint Conference on Artificial Intelligence},
+  pages={},
+  year={2021}
+}

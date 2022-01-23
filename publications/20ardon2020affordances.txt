@@ -1,8 +1,0 @@
-@misc{ardón2020affordances,
-	title={Affordances in Robotic Tasks -- A Survey},
-	author={Paola Ardón and Èric Pairet and Katrin S. Lohan and Subramanian Ramamoorthy and Ronald P. A. Petrick},
-	year={2020},
-	eprint={2004.07400},
-	archivePrefix={arXiv},
-	primaryClass={cs.RO}
-}

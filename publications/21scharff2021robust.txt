@@ -1,0 +1,8 @@
+@inproceedings{scharff2021robust,
+  title={Robust Underwater SLAM using Autonomous Relocalisation},
+  author={Willners, Jonatan Scharff and Carreno, Yaniel and Xu, Shida and {\L}uczy{\'n}ski, Tomasz and Katagiri, Sean and Roe, Joshua and Pairet, {\`E}ric and Petillot, Yvan and Wang, Sen},
+  booktitle={13th IFAC Conference on Control Applications in Marine Systems, Robotics, and Vehicles},
+  volume={},
+  pages={},
+  year={2021}
+}

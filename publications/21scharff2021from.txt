@@ -1,0 +1,7 @@
+@inproceedings{scharff2021from,
+  title={From market-ready ROVs to low-cost AUVs},
+  author={Willners, Jonatan Scharff and Carlucho, Ignacio and Katagiri, Sean and Lemoine, Chandler and Roe, Joshua and Stephens, Dylan and {\L}uczy{\'n}ski, Tomasz and Xu, Shida and Carreno, Yaniel and Pairet, {\`E}ric and Wang, Sen and Barbalata, Corina and Petillot, Yvan},
+  booktitle={OCEANS 2021},
+  pages={},
+  year={2021}
+}

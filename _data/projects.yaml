@@ -14,14 +14,14 @@
       hovernote_more: "[Read more...]"
 
       enable_popup: True
-      abstract: 20pairet2020online_abstract.txt
+      abstract: 21pairet2021online_abstract.txt
       youtube: https://www.youtube.com/embed/I5X_QFKDpeI
       youtube_extra: https://www.youtube.com/embed/dTejsNqNC00
       publications:
         - name: È. Pairet, J. D. Hernández, M. Carreras, Y. Petillot, and M. Lahijanian. "Online Mapping and Motion Planning under Uncertainty for Safe Navigation in Unknown Environments", in the International Journal of Robotics Research. Under review.
-          pdf: 20pairet2020online.pdf
+          pdf: 21pairet2021online.pdf
           bibtex:
-          abstract: 20pairet2020online_abstract.txt
+          abstract: 21pairet2021online_abstract.txt
           youtube: https://youtu.be/I5X_QFKDpeI
         - name: È. Pairet, J. D. Hernández, M. Lahijanian, and M. Carreras. "Uncertainty-based Online Mapping and Motion Planning for Marine Robotics Guidance," in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems. October 2018.
           pdf: 18pairet2018uncertainty.pdf
@@ -134,7 +134,7 @@
 
       image: 2015_fins.jpg
       footnote: Fins electronics and control
-      hovernote: Integration of Fins on the SPARUS II AUV for its Control in Five Degrees of 
+      hovernote: Integration of Fins on the SPARUS II AUV for its Control in Five Degrees of
       hovernote_more: "[Read more...]"
 
       enable_popup: True
@@ -204,7 +204,7 @@
       footnote: Cartilage segmentation
       hovernote: Multiresolution Atlas-based Segmentation of Tibia, Femur and Knee Cartilage on MRI Vol.
       hovernote_more: "[See report]"
-      
+
       enable_popup: False
       report: 2017_segmentation.pdf
 
@@ -216,19 +216,19 @@
       footnote: Industrial manipulator
       hovernote: Industrial manipulator
       hovernote_more:
-      
+
       enable_popup: False
       report:
 
     - id: project_cv3
       size: col-sm-6
       column: right
-      
+
       image: 2017_iris.jpg
       footnote: Iris biometric identification
       hovernote: Iris biometric identification
       hovernote_more:
-      
+
       enable_popup: False
       report:
 
@@ -265,7 +265,7 @@
       hovernote_more: "[Read more...]"
 
       enable_popup: True
-      abstract: 
+      abstract:
       youtube: https://www.youtube.com/embed/A5-8LTBxbHQ
       publications:
         - name: J. D. Hernández, G. Vallicrosa, E. Vidal, È. Pairet, M. Carreras, and P. Ridao. "On-line 3D Path Planning for Close-proximity Surveying with AUVs," in IFAC Workshop on Navigation, Guidance and Control of Underwater Vehicles. April 2015.
@@ -286,7 +286,7 @@
       footnote: Autonomous navigation
       hovernote: Two-dimensional Offline Path Planning for a Turtlebot
       hovernote_more: "[See report]"
-      
+
       enable_popup: False
       report: 2016_planning.pdf
 

@@ -1,0 +1,6 @@
+@online{ardon2021affordanceworkshop,
+  title={Affordance-Aware Handovers with Human Arm Mobility Constraints},
+  author={Ard{\'o}n, Paola and Cabrera, Maria Eugenia and Pairet, {\`E}ric and Petrick, Ronald PA and Ramamoorthy, Subramanian and Lohan, Katrin S and Cakmak, Maya},
+  addendum={Workshop on Learning for Caregiving Robots, IEEE International Conference on Robotics and Automation},
+  year={2021}
+}
