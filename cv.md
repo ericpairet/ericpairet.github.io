@@ -18,7 +18,7 @@ permalink: /cv/
 
 <div class="row">
   <div class="column column-left">
-    <p>2018 / Present</p>
+    <p>2018 / 2021</p>
   </div>
   <div class="column column-right justify">
     <p><b>Centre for Doctoral Training in Robotics and Autonomous Systems</b> (CDT-RAS) <br> The University of Edinburgh and Heriot-Watt University (UK)</p>
@@ -62,7 +62,25 @@ permalink: /cv/
 
 <div class="row">
   <div class="column column-left">
-    <p>2017 / Present</p>
+    <p>2021 / present</p>
+  </div>
+  <div class="column column-right justify">
+    <p><b>Senior Researcher</b> <br> Technology Innovation Institute (TII) (UAE) <br> <i></i></p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column column-left">
+    <p>2020 / 2021</p>
+  </div>
+  <div class="column column-right justify">
+    <p><b>Robotics Consultant</b> <br> Self-employed (UK) <br> <i>Description: Leading the development of an autonomous rover for inspection of surface pressure vessels in hazardous environments. Hands-on technical design and support on the rover’s architecture for autonomy.</i></p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column column-left">
+    <p>2017 / 2021</p>
   </div>
   <div class="column column-right justify">
     <p><b>Research Assistant</b> <br> Offshore and Robotics for Certification Assets (ORCA Hub) (UK) <br> <i>Description: Research and deployment of motion planning strategies for mobile base robots and manipulators, and development of a digital-twin simulator.</i></p>
@@ -102,6 +120,15 @@ permalink: /cv/
   </div>
   <div class="column column-right justify">
     <p><b>Laboratory Assistant</b> <br> Department of computer science, applied mathematics and statistics (IMAE), University of Girona (Spain) <br> <i>Description: Preparation of teaching material for undergraduate engineering statistics courses at the University of Girona.</i></p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column column-left">
+    <p>2009 / 2014</p>
+  </div>
+  <div class="column column-right justify">
+    <p><b>Automation Consultant</b> <br> Self-employed <br> <i>Description: Full-cycle project management and execution for machinery automation, renewable energy and electrical installations.</i></p>
   </div>
 </div>
 
