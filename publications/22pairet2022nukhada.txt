@@ -1,0 +1,8 @@
+@inproceedings{pairet2022nukhada,
+  title={Nukhada USV: a Robot for Autonomous Surveying and Support to Underwater Operations},
+  author={Pairet, {\`E}ric and Span{\`o}, Simone and Mankovskii, Nikita and Pellegrino, Paolo and Zhilin, Igor and Nicola, Jeremy and La Gala, Francesco and De Masi, Giulia},
+  booktitle={OCEANS 2022-Chennai},
+  pages={},
+  year={2022},
+  organization={IEEE}
+}

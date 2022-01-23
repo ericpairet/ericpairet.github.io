@@ -1,0 +1,8 @@
+@inproceedings{aldhaheri2022underwater,
+  title={Underwater Robot Manipulation: Advances, Challenges and Prospective Ventures},
+  author={Aldhaheri, Sara and De Masi, Giulia and Pairet, {\`E}ric and Ard{\'o}n, Paola},
+  booktitle={OCEANS 2022-Chennai},
+  pages={},
+  year={2022},
+  organization={IEEE}
+}
