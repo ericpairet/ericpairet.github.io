@@ -1,0 +1,8 @@
+@phdthesis{pairet2022behaviour,
+  title={Behaviour-driven Motion Synthesis},
+  author={Pairet, {\`E}ric},
+  school="University of Edinburgh and Heriot-Watt University",
+  type="{PhD Thesis}",
+  year="2022",
+  month="February",
+}
