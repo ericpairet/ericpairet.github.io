@@ -1,0 +1,10 @@
+@article{pairet2022online,
+  author={Pairet, {\`E}ric and Hern{\'a}ndez, Juan David and Carreras, Marc and Petillot, Yvan and Lahijanian, Morteza},
+  journal={IEEE Transactions on Automation Science and Engineering}, 
+  title={Online Mapping and Motion Planning Under Uncertainty for Safe Navigation in Unknown Environments}, 
+  year={2022},
+  volume={19},
+  number={4},
+  pages={3356-3378},
+  doi={10.1109/TASE.2021.3118737}
+}
