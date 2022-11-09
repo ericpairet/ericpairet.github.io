@@ -5,9 +5,10 @@
   youtube: https://youtu.be/I5X_QFKDpeI
 
 - name: A. Brandão, D. Smrcka, È. Pairet, T. Nascimento, M. Saska. "Side-Pull Maneuver&#58; A Novel Control Strategy for Dragging a Cable-Tethered Load of Unknown Weight Using a UAV", in IEEE Robotics and Automation Letters. October 2022.
-  bibtex:
-  abstract:
-  youtube:
+  pdf:  
+  bibtex: 22brandao2022side.txt
+  abstract: 22brandao2022side_abstract.pdf
+  youtube: https://youtu.be/6nRU2ZP6xSs
 
 - name: È. Pairet, S. Spanò, N. Mankovskii, P. Pellegrino, I. Zhilin, J. Nicola, F. La Gala, G. De Masi. "Nukhada USV&#58; a Robot for Autonomous Surveying and Support to Underwater Operations", in IEEE OCEANS.
   pdf: 22pairet2022nukhada.pdf

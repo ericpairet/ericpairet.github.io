@@ -1,0 +1,10 @@
+@article{brandao2022side,
+  author={Brandão, Alexandre S. and Smrcka, Daniel and Pairet, Éric and Nascimento, Tiago and Saska, Martin},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={Side-Pull Maneuver: A Novel Control Strategy for Dragging a Cable-Tethered Load of Unknown Weight Using a UAV}, 
+  year={2022},
+  volume={7},
+  number={4},
+  pages={9159-9166},
+  doi={10.1109/LRA.2022.3190092}
+}
