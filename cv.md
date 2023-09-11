@@ -63,7 +63,34 @@ Please <a href="{{ site.url }}/contact/">contact me</a> for my complete Curricul
 
 <div class="row">
   <div class="column column-left">
-    <p>2021 / present</p>
+    <p>2023 / present</p>
+  </div>
+  <div class="column column-right justify">
+    <p><b>Head of Researcher and Development</b> <br> Etihad Rail (UAE) <br> <i></i></p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column column-left">
+    <p>2023</p>
+  </div>
+  <div class="column column-right justify">
+    <p><b>Researcher and Development Expert</b> <br> Etihad Rail (UAE) <br> <i></i></p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column column-left">
+    <p>2022 / 2022</p>
+  </div>
+  <div class="column column-right justify">
+    <p><b>Lead Researcher</b> <br> Technology Innovation Institute (TII) (UAE) <br> <i></i></p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column column-left">
+    <p>2021 / 2022</p>
   </div>
   <div class="column column-right justify">
     <p><b>Senior Researcher</b> <br> Technology Innovation Institute (TII) (UAE) <br> <i></i></p>
